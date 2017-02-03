@@ -1,6 +1,5 @@
 
 # Portfolio Website
-## Joanna Chin
 
 Built using [Wintersmith](wintersmith.io)
 

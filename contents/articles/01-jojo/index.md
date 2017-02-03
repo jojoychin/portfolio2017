@@ -14,7 +14,6 @@ collaborators: Jaskirat Sr<br>Myles Coolen
 timeframe: July 2016 - March 2017
 mainImage: jojo.png
 video: //www.youtube.com/embed/FyZroOKK28E
-featured: true
  
 ---
 

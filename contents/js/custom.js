@@ -14,26 +14,6 @@ $(document).ready(function() {
 		autoplay();
 });
 
-// $('.carousel-item img').click(function(){
-// 	if (!paused){
-// 		paused = true;
-// 		click = true;
-// 	} else {
-// 		click = false;
-// 		paused = false;
-// 		autoplay();
-// 	}
-// })
-
-// $(window).scroll(function(){
-// 	if (paused){
-// 		console.log('scrolling')
-// 		click = false;
-// 		paused = false;
-// 		autoplay();
-// 	}	
-// })
-
 function autoplay() {
 	// if (!click){
 		$('.carousel').carousel('next');
@@ -48,4 +28,9 @@ $('.button-down a').click(function(){
     return false;
 });
 
+// ***** NOTES ***** //
 
+//VID for JOJO
+// <div class="video-container">
+// <iframe width="640" height="360" src="https://www.youtube.com/embed/HKrXLUqouJQ" frameborder="0" allowfullscreen></iframe>
+// </div>

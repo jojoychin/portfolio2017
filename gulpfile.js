@@ -76,9 +76,9 @@ gulp.task('commit', function() {
 
 gulp.task('push', function(){
   console.log('pushing...');
-  git.push('origin', 'master', function (err) {
-    if (err) throw err;
-  });
+  // git.push('origin', 'master', function (err) {
+  //   if (err) throw err;
+  // });
 });
 
 gulp.task('deploy-master', function() {

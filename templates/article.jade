@@ -9,7 +9,7 @@ block content
           div.video-container
             iframe(src=page.metadata.video frameborder="0" allowfullscreen)
         else
-          img.materialboxed(src=page.metadata.mainImage)
+          img(src=page.metadata.mainImage)
         h3 #{page.title}
         h5!=page.metadata.excerpt
       hr    

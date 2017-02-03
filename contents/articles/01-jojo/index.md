@@ -12,7 +12,7 @@ type: chatbot system<br>conversational interface
 roles: interaction designer<br>front-end web dev<br>UX researcher
 collaborators: Jaskirat Sr<br>Myles Coolen
 timeframe: July 2016 - March 2017
-mainImage: jojo.png
+mainImage: feature.jpg
 _video: //www.youtube.com/embed/FyZroOKK28E
  
 ---
@@ -30,6 +30,8 @@ As with many big telecommunication companies, this one is just beginning to expl
 <h2 class="project-sub">Goal</h2>
 
 Our team's goal was to come up with and build working prototypes of chatbots that could provide new services and opportunities for the company and its customers/clients. <i>JOJO</i> is a chatbot system that handles questions/requests from customers and streamlines business communications and operations. The system is built in a modular way, so that the four major components - conversational UI, artificial intelligence, operations dashboard, and analytics - can be pulled out and rearranged for applicability across multiple industries and for many different use-cases.
+
+<img src="jojo_main.jpg" class="materialboxed">
 
 Focusing on the company's existing industry connections, we developed JOJO as part of a complete system for the hospitality industry that would augment existing hardware/network sales. In the next few months, we're aiming to incorporate the system into a small geo-fenced ad campaign for the company's retail branch, as a way to provide a more active way of getting new customers into nearby Verizon stores. Throughout the development process we sought to tie the bot to existing department's work and continue to build support for the project internally.
 

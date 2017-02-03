@@ -9,14 +9,29 @@
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
-      <title>in a word</title>
-      <link>http://localhost:8080/articles/09-inaword/</link>
+      <title>Room 1206</title>
+      <link>http://localhost:8080/articles/11-room1206/</link>
       <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/09-inaword/</guid>
+      <guid isPermaLink="true">http://localhost:8080/articles/11-room1206/</guid>
       <author></author>
-      <description>&lt;p&gt;Brief opening credits for the play, &lt;i&gt;in a word&lt;/i&gt; (by Lauren Yee) directed and performed by students in The New School drama department. Animations were hand-drawn and the motion design was done in After Effects.&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;inaword_other.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;inaword_other2.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;i&gt;Room 1206&lt;/i&gt; is an exploratory narrative game in which players play a hotel housekeeper responsible for cleaning the same hotel room every day. As players complete their daily tasks, they encounter the signs and remnants of the guests who are staying there. Personal items, photographs, “garbage” left behind. Some mundane; some hinting at secrets, scandals, the triumphs and failures of human life.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;room1206_other.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;This game was created with an interest in creating tension between a desire to uncover narrative and the ethics required of a housekeeper.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;room1206_other2.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;room1206_main.gif&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;The game is built in Unity in collaboration with Bryan Collinsworth. For this project, I built 3D models using Rhino and Maya and crafted many of the player and object interactions. &lt;i&gt;Room 1206&lt;/i&gt; was demoed at the NYC Arcade (2015).&lt;/p&gt;
+&lt;p&gt;Here’s an example of an early asset and interaction test:&lt;/p&gt;
+&lt;div class=&quot;video-container&quot;&gt;
+&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/mV5ck72Ubuk&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Later my teammate built on this narrative premise to create a VR experience using Unreal Engine and HTC Vive during a fellowship with Viacom. It was showcased at a Viacom Next Demo Day (August 2016).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;VR.JPG&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;For this iteration, the player is not necessarily the housekeeper; the player’s role in the game/narrative remains ambiguous throughout. The experience focuses on the immersive quality of the virtual reality platform, as well as the compelling narrative told through the items left behind rather than the ethical quandaries of digging through someone’s personal items.&lt;/p&gt;
+&lt;div class=&quot;video-container&quot;&gt;
+&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/86cJoypqFew&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 </description>
     </item>
     <item>
@@ -41,74 +56,6 @@
 &lt;h2 class=&quot;project-sub&quot;&gt;My Role&lt;/h2&gt;
 
 &lt;p&gt;My contribution to the project included a mix of UX design, technical prototyping, and product positioning. I led much of the service design work - creating service blueprints, sequence diagrams, annotated wireframes - as well as the content strategy - crafting dialog trees and structuring the intents and entities in the botframe work. I collaborated with another designer on the visual design of the user interfaces, which included the mobile conversational UI plus a mission control dashboard and an analytics page (for the hospitality vertical). On the technical side, I did a lot of the bot scripting (coding the conversation waterfall and specific bot responses) and training, as well as provided engineering support on the web application front end to our primary tech specialist.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Banal Chaos</title>
-      <link>http://localhost:8080/articles/05-banalchaos/</link>
-      <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/05-banalchaos/</guid>
-      <author></author>
-      <description>&lt;p&gt;&lt;i&gt;Banal Chaos&lt;/i&gt; is an interactive performance piece in which the audience is invited to sit in chairs arranged like a NYC subway car and don headphones to listen in on the inner thoughts of strangers via a mobile web app. Performers silently embody the strangers going about their daily transit routine creating both a shared and individual performance experience and pseudo-game.&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;banalchaos_other3.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;h2 class=&quot;project-sub&quot;&gt;Challenge&lt;/h2&gt;
-
-&lt;p&gt;The prompt/problem for &lt;i&gt;Banal Chaos&lt;/i&gt; was more about methodology, process, and implemenation than product, business, or user concerns. As a performance/installation piece conceptualized and actualized within a 24-hour period of time, the team was forced to explore differences of cross-discipline creative process, unknown variables regarding presentation, and diverse expectations about the final outcome.&lt;/p&gt;
-&lt;h2 class=&quot;project-sub&quot;&gt;Goal&lt;/h2&gt;
-
-&lt;p&gt;Our team’s goal was to create a performative response to the prompt, “banal chaos,” that was flexible enough to work for a single large group performance or groups filtering in and out of the performace space. We wanted to use tech in a way that was supported and reflected the underlying themes of the piece in an essential rather than auxilary way.&lt;/p&gt;
-&lt;h3 class=&quot;project-sub-main&quot;&gt;Design Process&lt;/h3&gt;
-
-&lt;p&gt;I worked with a group of five to develop the concept and create basic user flow. The team, which was comprised of one film artist, an actor, a director, a playwrite, and myself, had to work to develop a way of working together that took aspects of both design and theatre creative process. We learned quickly that individuals had very different views on process and product and that establishing a common ground of practice was essential to moving forward. We did quick individual brainstorming sessions and shared concepts with one another, building off of each other’s ideas and focusing on common themes.&lt;/p&gt;
-&lt;p&gt;We settled on developing a piece around conversations and sounds on the subway (which are banal amidst the chaos of public transportation in NYC). As the technical and interaction expert on the team, I suggested that we draw from shared experiences and common interactions on the subway.&lt;/p&gt;
-&lt;h2 class=&quot;project-sub&quot;&gt;Performance&lt;/h2&gt;
-
-&lt;p&gt;The final piece played with the everyday actions that we use in the subway - listening in on conversations, getting lost in internal thought, and putting on headphones - to explore and subvert those actions.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;banalchaos_other2.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;The audience brought their own mobile devices and headphones into the space and were invited to use them to access a web app through which they could listen to pre-recorded conversations and internal monologues from passangers. Audience members could choose “chaos” (to listen to all the conversations simultaneously) or to listen to one conversation at a time and switch between the characters; user choice was a crucial piece of the experience. The audio experience was grounded by subway sounds (recorded by one of my teammates) that played on speakers in the shared performance space.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;banalchaos_screen2.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Meanwhile, performers pantomimed the characters who are having the conversations/internal monologues. This created a situation in which audience members had to engage in order to connect what they were seeing with what they were listening to. In this way we created a piece that examines performance as a personalized experience and as a game (with audience members trying to guess which stranger’s conversation they were listening in on).&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;banalchaos_other.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;h2 class=&quot;project-sub&quot;&gt;Technical Development&lt;/h2&gt;
-
-&lt;p&gt;With a quick turn-around time, I developed and deployed the mobile web app for the project. The app is built using HTML, CSS, javascript and contains audio components.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;banalchaos_screen3.JPG&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>LAMA</title>
-      <link>http://localhost:8080/articles/03-lama/</link>
-      <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/03-lama/</guid>
-      <author></author>
-      <description>&lt;p&gt;&lt;i&gt;LAMA&lt;/i&gt; was developed for the Publicis Groupe “Retail Experience of the Future” NYC Media Lab Corporate Challenge.&lt;/p&gt;
-&lt;p&gt;The basic concept is an app that stores users’ shopping lists so that when they visit a big box store, the app can automatically route them on the most efficient path to shop for their items, dynamically changing their path as the customer adds items to their Smart Cart or list. Because items are being check off as they are added to the Smart Cart, users can checkout at any time using the app on their phone.&lt;/p&gt;
-&lt;p&gt;For flagship stores, navigation data could be reflected in a light installation on the ceiling of the store adding visual interest to an otherwise mundane shopping process. Retailers also benefit by being able to add location-/user-specific ads, receive the data from consumer product choices, and visualize overall store traffic.&lt;/p&gt;
-&lt;h2 class=&quot;project-sub&quot;&gt;Challenge&lt;/h2&gt;
-
-&lt;p&gt;E-commerce is draining sales from brick and mortor stores. It is convenient and helps consumers avoid the stress of navigating a store and the time suck of waiting in line for checkout. However, there are some definite reasons why customers still sometimes chose to shop in-store - the experience of browsing, the ability to see and touch physical products, and being able to get a product immediately to name a few. Looking to the future of retail, how might the in-store shopping experience be informed by e-commerce platforms?&lt;/p&gt;
-&lt;h2 class=&quot;project-sub&quot;&gt;Goal&lt;/h2&gt;
-
-&lt;p&gt;Given the tight timeline for the design process, our goal was to form a coherent and innovative solution to the problems facing in-store retail and to pitch a concept that had been tested with users and proven from a technical perspective. Our solution, LAMA not only addresses the pain points for brick and mortor customer experience at a “big box store” by incorporating successful aspects of e-commerce platforms, but also incorporates features that provide value for the retailer.&lt;/p&gt;
-&lt;h3 class=&quot;project-sub-main&quot;&gt;Design Process&lt;/h3&gt;
-
-&lt;p&gt;Our process for developing LAMA involved four major stages: research and synthesis of existing trends and new technology, ideation, rapid prototyping, quick user testing in the physical space, and refining the concept and interactions.&lt;/p&gt;
-&lt;h2 class=&quot;project-sub&quot;&gt;Research&lt;/h2&gt;
-
-&lt;p&gt;Our team of three, guided by designer Bernardo Schorr (Smart Design), developed LAMA by first researching examples of forward thinking in retail and interactive spaces. We synthesized over 40 examples to identify overarching trends and analyzed what about these were successful and why.&lt;/p&gt;
-&lt;h2 class=&quot;project-sub&quot;&gt;Digital Design&lt;/h2&gt;
-
-&lt;p&gt;Once we brainstormed a concept, I led the development of a holistic user journey through the physical and digital space and developed the pitch narrative. Working with another UX/UI designer, I created the final consumer-facing screen designs and made the interactive prototype in InVision.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;lama_UX.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;h2 class=&quot;project-sub&quot;&gt;User Testing&lt;/h2&gt;
-
-&lt;p&gt;Over a week’s time, the team conducted two rounds of in-depth user testing on-site at a “big box store” with four participants. In order to get a sense of the physical aspects of the concept, we used yarn to simulate the lighted path to items on the consumer’s list.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;lama_usertesting2.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;lama_usertesting1.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;lama_usertesting3.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;In parallel to our user testing and proving out the product concept, our software developer on the project built technical mock-ups to test the feasibility of multiple user pathways via a custom algorithm. The final concept was presented to executives and staff of Publicis Groupe subsidiaries.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;lama_presentation.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -210,6 +157,74 @@
 &lt;/div&gt;</description>
     </item>
     <item>
+      <title>Banal Chaos</title>
+      <link>http://localhost:8080/articles/05-banalchaos/</link>
+      <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/05-banalchaos/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;i&gt;Banal Chaos&lt;/i&gt; is an interactive performance piece in which the audience is invited to sit in chairs arranged like a NYC subway car and don headphones to listen in on the inner thoughts of strangers via a mobile web app. Performers silently embody the strangers going about their daily transit routine creating both a shared and individual performance experience and pseudo-game.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;banalchaos_other3.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;h2 class=&quot;project-sub&quot;&gt;Challenge&lt;/h2&gt;
+
+&lt;p&gt;The prompt/problem for &lt;i&gt;Banal Chaos&lt;/i&gt; was more about methodology, process, and implemenation than product, business, or user concerns. As a performance/installation piece conceptualized and actualized within a 24-hour period of time, the team was forced to explore differences of cross-discipline creative process, unknown variables regarding presentation, and diverse expectations about the final outcome.&lt;/p&gt;
+&lt;h2 class=&quot;project-sub&quot;&gt;Goal&lt;/h2&gt;
+
+&lt;p&gt;Our team’s goal was to create a performative response to the prompt, “banal chaos,” that was flexible enough to work for a single large group performance or groups filtering in and out of the performace space. We wanted to use tech in a way that was supported and reflected the underlying themes of the piece in an essential rather than auxilary way.&lt;/p&gt;
+&lt;h3 class=&quot;project-sub-main&quot;&gt;Design Process&lt;/h3&gt;
+
+&lt;p&gt;I worked with a group of five to develop the concept and create basic user flow. The team, which was comprised of one film artist, an actor, a director, a playwrite, and myself, had to work to develop a way of working together that took aspects of both design and theatre creative process. We learned quickly that individuals had very different views on process and product and that establishing a common ground of practice was essential to moving forward. We did quick individual brainstorming sessions and shared concepts with one another, building off of each other’s ideas and focusing on common themes.&lt;/p&gt;
+&lt;p&gt;We settled on developing a piece around conversations and sounds on the subway (which are banal amidst the chaos of public transportation in NYC). As the technical and interaction expert on the team, I suggested that we draw from shared experiences and common interactions on the subway.&lt;/p&gt;
+&lt;h2 class=&quot;project-sub&quot;&gt;Performance&lt;/h2&gt;
+
+&lt;p&gt;The final piece played with the everyday actions that we use in the subway - listening in on conversations, getting lost in internal thought, and putting on headphones - to explore and subvert those actions.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;banalchaos_other2.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;The audience brought their own mobile devices and headphones into the space and were invited to use them to access a web app through which they could listen to pre-recorded conversations and internal monologues from passangers. Audience members could choose “chaos” (to listen to all the conversations simultaneously) or to listen to one conversation at a time and switch between the characters; user choice was a crucial piece of the experience. The audio experience was grounded by subway sounds (recorded by one of my teammates) that played on speakers in the shared performance space.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;banalchaos_screen2.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Meanwhile, performers pantomimed the characters who are having the conversations/internal monologues. This created a situation in which audience members had to engage in order to connect what they were seeing with what they were listening to. In this way we created a piece that examines performance as a personalized experience and as a game (with audience members trying to guess which stranger’s conversation they were listening in on).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;banalchaos_other.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;h2 class=&quot;project-sub&quot;&gt;Technical Development&lt;/h2&gt;
+
+&lt;p&gt;With a quick turn-around time, I developed and deployed the mobile web app for the project. The app is built using HTML, CSS, javascript and contains audio components.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;banalchaos_screen3.JPG&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>LAMA</title>
+      <link>http://localhost:8080/articles/03-lama/</link>
+      <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/03-lama/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;i&gt;LAMA&lt;/i&gt; was developed for the Publicis Groupe “Retail Experience of the Future” NYC Media Lab Corporate Challenge.&lt;/p&gt;
+&lt;p&gt;The basic concept is an app that stores users’ shopping lists so that when they visit a big box store, the app can automatically route them on the most efficient path to shop for their items, dynamically changing their path as the customer adds items to their Smart Cart or list. Because items are being check off as they are added to the Smart Cart, users can checkout at any time using the app on their phone.&lt;/p&gt;
+&lt;p&gt;For flagship stores, navigation data could be reflected in a light installation on the ceiling of the store adding visual interest to an otherwise mundane shopping process. Retailers also benefit by being able to add location-/user-specific ads, receive the data from consumer product choices, and visualize overall store traffic.&lt;/p&gt;
+&lt;h2 class=&quot;project-sub&quot;&gt;Challenge&lt;/h2&gt;
+
+&lt;p&gt;E-commerce is draining sales from brick and mortor stores. It is convenient and helps consumers avoid the stress of navigating a store and the time suck of waiting in line for checkout. However, there are some definite reasons why customers still sometimes chose to shop in-store - the experience of browsing, the ability to see and touch physical products, and being able to get a product immediately to name a few. Looking to the future of retail, how might the in-store shopping experience be informed by e-commerce platforms?&lt;/p&gt;
+&lt;h2 class=&quot;project-sub&quot;&gt;Goal&lt;/h2&gt;
+
+&lt;p&gt;Given the tight timeline for the design process, our goal was to form a coherent and innovative solution to the problems facing in-store retail and to pitch a concept that had been tested with users and proven from a technical perspective. Our solution, LAMA not only addresses the pain points for brick and mortor customer experience at a “big box store” by incorporating successful aspects of e-commerce platforms, but also incorporates features that provide value for the retailer.&lt;/p&gt;
+&lt;h3 class=&quot;project-sub-main&quot;&gt;Design Process&lt;/h3&gt;
+
+&lt;p&gt;Our process for developing LAMA involved four major stages: research and synthesis of existing trends and new technology, ideation, rapid prototyping, quick user testing in the physical space, and refining the concept and interactions.&lt;/p&gt;
+&lt;h2 class=&quot;project-sub&quot;&gt;Research&lt;/h2&gt;
+
+&lt;p&gt;Our team of three, guided by designer Bernardo Schorr (Smart Design), developed LAMA by first researching examples of forward thinking in retail and interactive spaces. We synthesized over 40 examples to identify overarching trends and analyzed what about these were successful and why.&lt;/p&gt;
+&lt;h2 class=&quot;project-sub&quot;&gt;Digital Design&lt;/h2&gt;
+
+&lt;p&gt;Once we brainstormed a concept, I led the development of a holistic user journey through the physical and digital space and developed the pitch narrative. Working with another UX/UI designer, I created the final consumer-facing screen designs and made the interactive prototype in InVision.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;lama_UX.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;h2 class=&quot;project-sub&quot;&gt;User Testing&lt;/h2&gt;
+
+&lt;p&gt;Over a week’s time, the team conducted two rounds of in-depth user testing on-site at a “big box store” with four participants. In order to get a sense of the physical aspects of the concept, we used yarn to simulate the lighted path to items on the consumer’s list.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;lama_usertesting2.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;lama_usertesting1.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;lama_usertesting3.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;In parallel to our user testing and proving out the product concept, our software developer on the project built technical mock-ups to test the feasibility of multiple user pathways via a custom algorithm. The final concept was presented to executives and staff of Publicis Groupe subsidiaries.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;lama_presentation.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Craigslist for Brokers</title>
       <link>http://localhost:8080/articles/06-craigslistforbrokers/</link>
       <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
@@ -259,51 +274,6 @@
 </description>
     </item>
     <item>
-      <title>Between the Beats</title>
-      <link>http://localhost:8080/articles/08-betweenthebeats/</link>
-      <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/08-betweenthebeats/</guid>
-      <author></author>
-      <description>&lt;p&gt;&lt;i&gt;Between the Beats&lt;/i&gt; is a short motion graphics piece created for a fictional music channel that delivers “music to get you in the mood.”&lt;/p&gt;
-&lt;p&gt;Starting with style frames, I established three distinct visual styles and vocabulary.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;btb_other.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;After deciding on an aesthetic direction based on user testing the readability of each of these designs, I created a storyboard to articulate and flesh out the visual style and start to encapsulate the motion and transition design as well. I drew from Blue Note records cover art as one major source of inspiration.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;btb_storyboard.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;The final motion graphics piece was done in After Effects and pushes the idea of music hidden under clothing and in the spaces in between to highlight the unique edgy and irreverent personality of this sexy music channel.&lt;/p&gt;
-&lt;p&gt;This piece was shown as part of a projection piece at the Parsons Fashion Gala (2016).&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>d.bot</title>
-      <link>http://localhost:8080/articles/07-dbot/</link>
-      <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/07-dbot/</guid>
-      <author></author>
-      <description>&lt;p&gt;&lt;i&gt;D.bot&lt;/i&gt; is a chatbot that draws from female experiences in dating to simulates conversing with an unenlightened male. The project is intended to address in a light-hearted, humorous way, the pervasiveness of gender stereotypes and the ease with which disrespectful and patronizing comments find their way into everyday conversation. It was featured in &lt;i&gt;The Guardian&lt;/i&gt;, &lt;i&gt;Mashable&lt;/i&gt;, &lt;i&gt;Refinery 29&lt;/i&gt;, &lt;i&gt;MTV News&lt;/i&gt;, and other feminist and/or tech blogs.&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;h2 class=&quot;project-sub&quot;&gt;Challenge&lt;/h2&gt;
-
-&lt;p&gt;Women are harrassed both in real life and online. We know this is a problem because when we were creating &lt;i&gt;d.bot&lt;/i&gt;, a feminist dating site, Bumble, had just come onto the scene. Bumble sought to break traditional gender roles (of who pursues who) and create a “safer” space based on “online accountability and kindness.” The traction it has gained since then seems to indicate the need for new solutions to the problem of harassment based on gender.&lt;/p&gt;
-&lt;p&gt;Rather than focus on lack of safe space, we saw one of the big challenges of gender-based harassment as understanding the relationship between the benign, well-intentioned gendered comments that many men make and the truly chauvanistic and recognizably aggregious ones. There is no easy way to say to a male colleague or friend that their casual sexist comments and actions are still propetuating a culture in which women are not treated equally.&lt;/p&gt;
-&lt;h2 class=&quot;project-sub&quot;&gt;Goal&lt;/h2&gt;
-
-&lt;p&gt;From an interaction standpoint, the goal with d.bot was to create an experience in which the user continues to engage with something despite not wanting to. From a social change standpoint, we were interested in a creating a bot that was both comedic in its responses, but also ran the gamit of sexist and racist comments from more benign to outrageously insulting.&lt;/p&gt;
-&lt;p&gt;The final bot draws from a database of responses derived from women’s actual interactions in online and offline dating. Users are encouraged to add their own experiences to the bot’s AI, so that it can continue to reflect the latest in insensitive and insulting comments.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;d.bot_other1.jpg&quot; class=&quot;materialboxed z-depth-1&quot;&gt;&lt;/p&gt;
-&lt;h2 class=&quot;project-sub&quot;&gt;Learning&lt;/h2&gt;
-
-&lt;p&gt;In addition to the technical learning of how to make a simple chatbot, &lt;i&gt;d.bot&lt;/i&gt; was fundamental in exploring some major aspects of crafting artificial intelligence that relate closely to shaping user experience.&lt;/p&gt;
-&lt;blockquote&gt;“I knew it was a bot, and it still made me so mad!”
-&lt;br&gt;-comment from anonymous user&lt;/blockquote&gt;
-
-&lt;p&gt;Although the bot was built using “simple AI” (i.e., exact reponses for specific trigger words rather than using algorithms to determine natural language patterns), the context of the bot and the users’ interactions with him were key to a successful interactive experience.&lt;/p&gt;
-&lt;p&gt;First, because he is positioned as a “douche bot,” the user immediately excuses slightly off responses because, like a real jerk, he’s not actually listening to you most of the time. Second, the content of the chat, similar to what you might experience on an online dating site, provides some context and direction for the conversation because we know what kind of topics are discussed when you are trying to suss out another person’s personality and intent. Third, we sought to examine the premise of the Turing Test, which is the measuring stick by which the humanness of a machine. It seems that the test assumes that best of what humanness is rather than the very faults that make us unresponsive, rude, and illogical. &lt;i&gt;D.bot&lt;/i&gt;, like Microsoft’s infamous racist twitter bot, poses the opposite, that these flaws actually make the bot experience more human.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;d.bot_other2.jpg&quot; class=&quot;materialboxed z-depth-1&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Based on feedback from early users, we modified &lt;i&gt;d.bot&lt;/i&gt; to include responses to users’ actions as well as the content of their responses. For example, in the latest iteration, the bot will comment if a user takes too long to respond (e.g., “Are you ghosting me?”) and also has some special responses if a user is too curt (repeated short responses) or too verbose (words larger than X characters).&lt;/p&gt;
-&lt;p&gt;&lt;i&gt;D.bot&lt;/i&gt; was created in collaboration with Bryan Collinsworth. I took the lead on the experience design, web development, and content curation. The bot was built using HTML/CSS, JavaScript, node.js, socket.io, and a Parse database.&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>Wag It</title>
       <link>http://localhost:8080/articles/10-wagit/</link>
       <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
@@ -318,29 +288,29 @@
 </description>
     </item>
     <item>
-      <title>Room 1206</title>
-      <link>http://localhost:8080/articles/11-room1206/</link>
+      <title>in a word</title>
+      <link>http://localhost:8080/articles/09-inaword/</link>
       <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/11-room1206/</guid>
+      <guid isPermaLink="true">http://localhost:8080/articles/09-inaword/</guid>
       <author></author>
-      <description>&lt;p&gt;&lt;i&gt;Room 1206&lt;/i&gt; is an exploratory narrative game in which players play a hotel housekeeper responsible for cleaning the same hotel room every day. As players complete their daily tasks, they encounter the signs and remnants of the guests who are staying there. Personal items, photographs, “garbage” left behind. Some mundane; some hinting at secrets, scandals, the triumphs and failures of human life.&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;room1206_other.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;This game was created with an interest in creating tension between a desire to uncover narrative and the ethics required of a housekeeper.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;room1206_other2.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;room1206_main.gif&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;The game is built in Unity in collaboration with Bryan Collinsworth. For this project, I built 3D models using Rhino and Maya and crafted many of the player and object interactions. &lt;i&gt;Room 1206&lt;/i&gt; was demoed at the NYC Arcade (2015).&lt;/p&gt;
-&lt;p&gt;Here’s an example of an early asset and interaction test:&lt;/p&gt;
-&lt;div class=&quot;video-container&quot;&gt;
-&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/mV5ck72Ubuk&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Later my teammate built on this narrative premise to create a VR experience using Unreal Engine and HTC Vive during a fellowship with Viacom. It was showcased at a Viacom Next Demo Day (August 2016).&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;VR.JPG&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;For this iteration, the player is not necessarily the housekeeper; the player’s role in the game/narrative remains ambiguous throughout. The experience focuses on the immersive quality of the virtual reality platform, as well as the compelling narrative told through the items left behind rather than the ethical quandaries of digging through someone’s personal items.&lt;/p&gt;
-&lt;div class=&quot;video-container&quot;&gt;
-&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/86cJoypqFew&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+      <description>&lt;p&gt;Brief opening credits for the play, &lt;i&gt;in a word&lt;/i&gt; (by Lauren Yee) directed and performed by students in The New School drama department. Animations were hand-drawn and the motion design was done in After Effects.&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;inaword_other.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;inaword_other2.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Between the Beats</title>
+      <link>http://localhost:8080/articles/08-betweenthebeats/</link>
+      <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/08-betweenthebeats/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;i&gt;Between the Beats&lt;/i&gt; is a short motion graphics piece created for a fictional music channel that delivers “music to get you in the mood.”&lt;/p&gt;
+&lt;p&gt;Starting with style frames, I established three distinct visual styles and vocabulary.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;btb_other.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;After deciding on an aesthetic direction based on user testing the readability of each of these designs, I created a storyboard to articulate and flesh out the visual style and start to encapsulate the motion and transition design as well. I drew from Blue Note records cover art as one major source of inspiration.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;btb_storyboard.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;The final motion graphics piece was done in After Effects and pushes the idea of music hidden under clothing and in the spaces in between to highlight the unique edgy and irreverent personality of this sexy music channel.&lt;/p&gt;
+&lt;p&gt;This piece was shown as part of a projection piece at the Parsons Fashion Gala (2016).&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -371,6 +341,36 @@
 &lt;h2 class=&quot;project-sub&quot;&gt;Feedback &amp;amp; Iteration&lt;/h2&gt;
 
 &lt;p&gt;The first iteration of the concept was publish on the New Challenge website and the general public was invited to give their input, while the selection committee gave specific feedback on the viability of the concept and proposed implementation from our application. As a result of these comments, my collaborator and I revised both our framing of the idea, and reached out to additional housing policy and advocacy experts. As a result of feedback from all of these sources, we did a second iteration of the prototype, which included a page after a user reported a problem that pulled up specific action items that they could take right now - from a government webpage to find out more about the specific policy around their complaint to municipal departments to call directly.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>d.bot</title>
+      <link>http://localhost:8080/articles/07-dbot/</link>
+      <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/07-dbot/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;i&gt;D.bot&lt;/i&gt; is a chatbot that draws from female experiences in dating to simulates conversing with an unenlightened male. The project is intended to address in a light-hearted, humorous way, the pervasiveness of gender stereotypes and the ease with which disrespectful and patronizing comments find their way into everyday conversation. It was featured in &lt;i&gt;The Guardian&lt;/i&gt;, &lt;i&gt;Mashable&lt;/i&gt;, &lt;i&gt;Refinery 29&lt;/i&gt;, &lt;i&gt;MTV News&lt;/i&gt;, and other feminist and/or tech blogs.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h2 class=&quot;project-sub&quot;&gt;Challenge&lt;/h2&gt;
+
+&lt;p&gt;Women are harrassed both in real life and online. We know this is a problem because when we were creating &lt;i&gt;d.bot&lt;/i&gt;, a feminist dating site, Bumble, had just come onto the scene. Bumble sought to break traditional gender roles (of who pursues who) and create a “safer” space based on “online accountability and kindness.” The traction it has gained since then seems to indicate the need for new solutions to the problem of harassment based on gender.&lt;/p&gt;
+&lt;p&gt;Rather than focus on lack of safe space, we saw one of the big challenges of gender-based harassment as understanding the relationship between the benign, well-intentioned gendered comments that many men make and the truly chauvanistic and recognizably aggregious ones. There is no easy way to say to a male colleague or friend that their casual sexist comments and actions are still propetuating a culture in which women are not treated equally.&lt;/p&gt;
+&lt;h2 class=&quot;project-sub&quot;&gt;Goal&lt;/h2&gt;
+
+&lt;p&gt;From an interaction standpoint, the goal with d.bot was to create an experience in which the user continues to engage with something despite not wanting to. From a social change standpoint, we were interested in a creating a bot that was both comedic in its responses, but also ran the gamit of sexist and racist comments from more benign to outrageously insulting.&lt;/p&gt;
+&lt;p&gt;The final bot draws from a database of responses derived from women’s actual interactions in online and offline dating. Users are encouraged to add their own experiences to the bot’s AI, so that it can continue to reflect the latest in insensitive and insulting comments.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;d.bot_other1.jpg&quot; class=&quot;materialboxed z-depth-1&quot;&gt;&lt;/p&gt;
+&lt;h2 class=&quot;project-sub&quot;&gt;Learning&lt;/h2&gt;
+
+&lt;p&gt;In addition to the technical learning of how to make a simple chatbot, &lt;i&gt;d.bot&lt;/i&gt; was fundamental in exploring some major aspects of crafting artificial intelligence that relate closely to shaping user experience.&lt;/p&gt;
+&lt;blockquote&gt;“I knew it was a bot, and it still made me so mad!”
+&lt;br&gt;-comment from anonymous user&lt;/blockquote&gt;
+
+&lt;p&gt;Although the bot was built using “simple AI” (i.e., exact reponses for specific trigger words rather than using algorithms to determine natural language patterns), the context of the bot and the users’ interactions with him were key to a successful interactive experience.&lt;/p&gt;
+&lt;p&gt;First, because he is positioned as a “douche bot,” the user immediately excuses slightly off responses because, like a real jerk, he’s not actually listening to you most of the time. Second, the content of the chat, similar to what you might experience on an online dating site, provides some context and direction for the conversation because we know what kind of topics are discussed when you are trying to suss out another person’s personality and intent. Third, we sought to examine the premise of the Turing Test, which is the measuring stick by which the humanness of a machine. It seems that the test assumes that best of what humanness is rather than the very faults that make us unresponsive, rude, and illogical. &lt;i&gt;D.bot&lt;/i&gt;, like Microsoft’s infamous racist twitter bot, poses the opposite, that these flaws actually make the bot experience more human.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;d.bot_other2.jpg&quot; class=&quot;materialboxed z-depth-1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Based on feedback from early users, we modified &lt;i&gt;d.bot&lt;/i&gt; to include responses to users’ actions as well as the content of their responses. For example, in the latest iteration, the bot will comment if a user takes too long to respond (e.g., “Are you ghosting me?”) and also has some special responses if a user is too curt (repeated short responses) or too verbose (words larger than X characters).&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;D.bot&lt;/i&gt; was created in collaboration with Bryan Collinsworth. I took the lead on the experience design, web development, and content curation. The bot was built using HTML/CSS, JavaScript, node.js, socket.io, and a Parse database.&lt;/p&gt;
 </description>
     </item>
   </channel>

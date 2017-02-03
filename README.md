@@ -1,11 +1,11 @@
 
 # Portfolio Website
-## Joanna Chin
+	
 
 Built using [Wintersmith](wintersmith.io)
 
 ```
-git clone git@github.com:jaskiratr/portfolio.git .
+git clone https://github.com/jojoychin/portfolio2017.git .
 npm install
 gulp serve
 ```

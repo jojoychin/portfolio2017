@@ -31,3 +31,4 @@ gulp build
 gulp deploy-pages
 gulp deploy-master
 ```
+credit to [jaskirat](https://github.com/jaskiratr) for the gulp shortcuts & sensei-ing.

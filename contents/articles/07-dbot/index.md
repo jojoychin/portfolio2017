@@ -15,19 +15,19 @@ mainImage: d.bot_main.gif
 
 ---
 
-<i>D.bot</i> is a chatbot that draws from female experiences in dating to simulates conversing with an unenlightened male. The project is intended to address in a light-hearted, humorous way, the pervasiveness of gender stereotypes and the ease with which disrespectful and patronizing comments find their way into everyday conversation. It was featured in <i>The Guardian</i>, <i>Mashable</i>, <i>Refinery 29</i>, <i>MTV News</i>, and other feminist and/or tech blogs.
+<i>D.bot</i> is a chatbot that draws from female experiences in dating to simulates conversing with an unenlightened male. The project is intended to address in a light-hearted, humorous way, the pervasiveness of gender stereotypes and the ease with which disrespectful and patronizing comments find their way into everyday conversation. It was featured in <i>The Guardian</i>, <i>Mashable</i>, <i>Refinery29</i>, <i>MTV News</i>, and other feminist and/or tech blogs.
 
 <span class="more"></span>
 
 <h2 class="project-sub">Challenge</h2>
 
-Women are harrassed both in real life and online. We know this is a problem because when we were creating <i>d.bot</i>, a feminist dating site, Bumble, had just come onto the scene. Bumble sought to break traditional gender roles (of who pursues who) and create a "safer" space based on "online accountability and kindness." The traction it has gained since then seems to indicate the need for new solutions to the problem of harassment based on gender.
+Women are harassed both in real life and online. We know this is a problem because when we were creating <i>d.bot</i>, a feminist dating site, Bumble, had just come onto the scene. Bumble sought to break traditional gender roles (of who pursues who) and create a "safer" space based on "online accountability and kindness." The traction it has gained since then seems to indicate the need for new solutions to the problem of harassment based on gender.
 
-Rather than focus on lack of safe space, we saw one of the big challenges of gender-based harassment as understanding the relationship between the benign, well-intentioned gendered comments that many men make and the truly chauvanistic and recognizably aggregious ones. There is no easy way to say to a male colleague or friend that their casual sexist comments and actions are still propetuating a culture in which women are not treated equally.
+Rather than focus on lack of safe space, we saw one of the big challenges of gender-based harassment as understanding the relationship between the benign, well-intentioned gendered comments that many men make and the truly chauvinistic and recognizably egregious ones. There is no easy way to say to a male colleague or friend that their casual sexist comments and actions are still perpetuating a culture in which women are not treated equally.
 
 <h2 class="project-sub">Goal</h2>
 
-From an interaction standpoint, the goal with d.bot was to create an experience in which the user continues to engage with something despite not wanting to. From a social change standpoint, we were interested in a creating a bot that was both comedic in its responses, but also ran the gamit of sexist and racist comments from more benign to outrageously insulting.
+From an interaction standpoint, the goal with d.bot was to create an experience in which the user continues to engage with something despite not wanting to. From a social change standpoint, we were interested in a creating a bot that was both comedic in its responses, but also ran the gamut of sexist and racist comments from more benign to outrageously insulting.
 
 The final bot draws from a database of responses derived from women's actual interactions in online and offline dating. Users are encouraged to add their own experiences to the bot's AI, so that it can continue to reflect the latest in insensitive and insulting comments.
 
@@ -40,7 +40,7 @@ In addition to the technical learning of how to make a simple chatbot, <i>d.bot<
 <blockquote>"I knew it was a bot, and it still made me so mad!"
 <br>-comment from anonymous user</blockquote>
 
-Although the bot was built using "simple AI" (i.e., exact reponses for specific trigger words rather than using algorithms to determine natural language patterns), the context of the bot and the users' interactions with him were key to a successful interactive experience.
+Although the bot was built using "simple AI" (i.e., exact responses for specific trigger words rather than using algorithms to determine natural language patterns), the context of the bot and the users' interactions with him were key to a successful interactive experience.
 
 First, because he is positioned as a "douche bot," the user immediately excuses slightly off responses because, like a real jerk, he's not actually listening to you most of the time. Second, the content of the chat, similar to what you might experience on an online dating site, provides some context and direction for the conversation because we know what kind of topics are discussed when you are trying to suss out another person's personality and intent. Third, we sought to examine the premise of the Turing Test, which is the measuring stick by which the humanness of a machine. It seems that the test assumes that best of what humanness is rather than the very faults that make us unresponsive, rude, and illogical. <i>D.bot</i>, like Microsoft's infamous racist twitter bot, poses the opposite, that these flaws actually make the bot experience more human.
 

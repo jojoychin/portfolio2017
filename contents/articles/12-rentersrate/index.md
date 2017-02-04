@@ -16,7 +16,7 @@ mainImage: rentersrate_main.gif
 
 ---
 
-RentersRATE is an app and SMS system that crowdsources tenant feedback for safer and healthier living. The app allows NYC tenants to submit reports about problems in their building or apartment in order to hold landlords and building management companies more accountable.
+<i>RentersRATE</i> is an app and SMS system that crowdsources tenant feedback for safer and healthier living. The app allows NYC tenants to submit reports about problems in their building or apartment in order to hold landlords and building management companies more accountable.
 
 <h2 class="project-sub">Challenge</h2>
 
@@ -28,13 +28,13 @@ My collaborator and I were developing rentersRATE for the 2015 New Challenge, a 
 
 <h3 class="project-sub-main">Product Design Process</h3>
 
-Our process for developing RentersRATE involved four major stages: research, ideation, prototyping, feedback and iteration. Particularly because our goal was to provide a platform that empowered NYC tenants, we were particularly cognizant of centering our design process and product around our users' needs and familiar digital interactions.
+Our process for developing <i>RentersRATE</i> involved four major stages: research, ideation, prototyping, feedback and iteration. Particularly because our goal was to provide a platform that empowered NYC tenants, we were particularly cognizant of centering our design process and product around our users' needs and familiar digital interactions.
 
 <h2 class="project-sub">Research & Ideation</h2>
 
-In the research stage of the project, we spoke with NYC renters and housing rights activists in order to better understand the problem and existing solutions. We found that current systems are largely limited to city housing authorities relying on inspections and enforcement within tough budget constraints; tenant advocacy organizations doing strong work but lacking a substantial digital footprint, and web platforms like Zillow that focus more on owners than renters. The city has NYC311, which allows residents to submit complaint and check its status either online or through an app, but ultimately, this still puts the onus on muncipal entities to follow through.
+In the research stage of the project, we spoke with NYC renters and housing rights activists in order to better understand the problem and existing solutions. We found that current systems are largely limited to city housing authorities relying on inspections and enforcement within tough budget constraints; tenant advocacy organizations doing strong work but lacking a substantial digital footprint, and web platforms like Zillow that focus more on owners than renters. The city has NYC311, which allows residents to submit complaint and check its status either online or through an app, but ultimately, this still puts the onus on city staff and municipal workers to follow through.
 
-We developed RentersRATE to fill this niche for a digital product that enables tenants to take direct action using technologies they already have (SMS, web, and app-enabled mobile phones). We were particularly influenced by the lack of connectedness and solidarity as barriers to renters' rights, and drew from other successful social feedback models (e.g. Yelp for dining, TripAdvisor for travel, Amazon reviews for products) in order to bring this crowdsourced feedback model to housing.
+We developed <i>RentersRATE</i> to fill this niche for a digital product that enables tenants to take direct action using technologies they already have (SMS, web, and app-enabled mobile phones). We were particularly influenced by the lack of connectedness and solidarity as barriers to renters' rights, and drew from other successful social feedback models (e.g. Yelp for dining, TripAdvisor for travel, Amazon reviews for products) in order to bring this crowdsourced feedback model to housing.
 
 <h2 class="project-sub">Prototyping</h2>
 

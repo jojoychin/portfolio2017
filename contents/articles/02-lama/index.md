@@ -3,7 +3,7 @@ title: LAMA
 author: joanna
 date: 2012-10-01 15:00
 template: article.jade
-excerpt: A dynamic and immersive instore navigation and checkout system and app
+excerpt: A dynamic in-store navigation and checkout system and app
 tag1: in-store navigation
 tag2: checkout system and app
 client: Publicis Groupe
@@ -25,11 +25,11 @@ For flagship stores, navigation data could be reflected in a light installation 
 
 <h2 class="project-sub">Challenge</h2>
 
-E-commerce is draining sales from brick and mortor stores. It is convenient and helps consumers avoid the stress of navigating a store and the time suck of waiting in line for checkout. However, there are some definite reasons why customers still sometimes chose to shop in-store - the experience of browsing, the ability to see and touch physical products, and being able to get a product immediately to name a few. Looking to the future of retail, how might the in-store shopping experience be informed by e-commerce platforms?
+E-commerce is draining sales from brick and mortar stores. It is convenient and helps consumers avoid the stress of navigating a store and the time suck of waiting in line for checkout. However, there are some definite reasons why customers still sometimes chose to shop in-store - the experience of browsing, the ability to see and touch physical products, and being able to get a product immediately to name a few. Looking to the future of retail, how might the in-store shopping experience be informed by e-commerce platforms?
 
 <h2 class="project-sub">Goal</h2>
 
-Given the tight timeline for the design process, our goal was to form a coherent and innovative solution to the problems facing in-store retail and to pitch a concept that had been tested with users and proven from a technical perspective. Our solution, LAMA not only addresses the pain points for brick and mortor customer experience at a "big box store" by incorporating successful aspects of e-commerce platforms, but also incorporates features that provide value for the retailer.
+Given the tight timeline for the design process, our goal was to form a coherent and innovative solution to the problems facing in-store retail and to pitch a concept that had been tested with users and proven from a technical perspective. Our solution, LAMA not only addresses the pain points for brick and mortar customer experience at a "big box store" by incorporating successful aspects of e-commerce platforms, but also incorporates features that provide value for the retailer.
 
 <h3 class="project-sub-main">Design Process</h3>
 
@@ -55,6 +55,6 @@ Over a week's time, the team conducted two rounds of in-depth user testing on-si
 
 <img src="lama_usertesting3.png" class="materialboxed">
 
-In parallel to our user testing and proving out the product concept, our software developer on the project built technical mock-ups to test the feasibility of multiple user pathways via a custom algorithm. The final concept was presented to executives and staff of Publicis Groupe subsidiaries.
+In parallel to our user testing and proving out the product concept, our software developer on the project built technical mockups to test the feasibility of multiple user pathways via a custom algorithm. The final concept was presented to executives and staff of Publicis Groupe subsidiaries.
 
 <img src="lama_presentation.jpg" class="materialboxed">

@@ -3,7 +3,7 @@ title: Post from the Past
 author: joanna
 date: 2012-10-01 15:00
 template: article.jade
-excerpt: Mysterious and immersive in-home experience uncovering the untold personal stories of historical figures
+excerpt: A mysterious and immersive in-home experience uncovering the untold personal stories of historical figures
 tag1: immersive packages
 tag2: telling the stories
 tag3: of historical people
@@ -26,7 +26,7 @@ There is a lack of engagement and meaningful learning of history in pre-college 
 
 <h2 class="project-sub">Goal</h2>
 
-Post from the Past seeks to make learning history a more accessible, authentic, and engaging experience. Using game mechanics, we are attempting to mimic and train current and future generations around how to do research - sifting through information, filtering and synthesizing primary and secondary sources, and using critial thinking skills to draw their own informed conclusions about contested historical events. Furthermore, we aim to build a sustainable business that will enable us to advance this social mission.
+Post from the Past seeks to make learning history a more accessible, authentic, and engaging experience. Using game mechanics, we are attempting to mimic and train current and future generations around how to do research - sifting through information, filtering and synthesizing primary and secondary sources, and using critical thinking skills to draw their own informed conclusions about contested historical events. Furthermore, we aim to build a sustainable business that will enable us to advance this social mission.
 
 <h3 class="project-sub-main">Product Design Process</h3>
 
@@ -42,7 +42,7 @@ The minimum viable product was conceived and created in less than 24 hours for t
 
 <h2 class="project-sub">Fabrication & Tech Iterations</h2>
 
-On the product side, I sourced and fabricated all physical components and developed/tested the tech integration. Fabrication involved reproducing artifacts from the historical figure's life and sourcing them when possile in order to balance my production time cost and customizability against the cost and authenticity of sourced objects.
+On the product side, I sourced and fabricated all physical components and developed/tested the tech integration. Fabrication involved reproducing artifacts from the historical figure's life and sourcing them when possible in order to balance my production time cost and customizability against the cost and authenticity of sourced objects.
 
 <div class="carousel carousel-slider" data-indicators="true">
     <a class="carousel-item" href="#one!"><img src="post_box3.jpeg"></a>
@@ -58,7 +58,7 @@ When testing tech solutions to the audio component of the boxes, I sought to bal
 
 <img src="post_tech.jpeg" class="materialboxed">
 
-After numerous rounds of testing, I ended up finding a middleground between the different requirements through one of the simplist solutions: a greeting card sound module with light sensor and speaker hidden under a fake bottom of the box so that when a user opens the box, it plays the introductory audio.
+After numerous rounds of testing, I ended up finding a middle ground between the different requirements through one of the simplest solutions: a greeting card sound module with light sensor and speaker hidden under a fake bottom of the box so that when a user opens the box, it plays the introductory audio.
 
 <h2 class="project-sub">Content strategy</h2>
 
@@ -99,7 +99,7 @@ During the course of the Combine program, my team and I conducted over 120 inter
 
 <img src="post_usertesting.jpeg" class="materialboxed">
 
-We reached out to and interviewed self-identified history enthusiasts (ranging from historical reenactors to long-time biography readers), museum staff, educators (school adminstrators and teachers), game enthusiasts/designers, subscription box customers, and parents. This process proved many of our hypotheses about these groups, but there were some surprises about our assumptions as well.
+We reached out to and interviewed self-identified history enthusiasts (ranging from historical reenactors to long-time biography readers), museum staff, educators (school administrators and teachers), game enthusiasts/designers, subscription box customers, and parents. This process proved many of our hypotheses about these groups, but there were some surprises about our assumptions as well.
 
 Here's a video summarizing our journey and some high level findings:
 
@@ -111,7 +111,7 @@ From these interviews we established that our target customer was a relatively s
 
 <h2 class="project-sub">Business Planning</h2>
 
-Basing our business validation process in learn startup methodology, we calculated market sizing, explored existing box subscription competitors, created models for sourcing and channel distribution, and figured out the economics of product/marketing cost versus revenue at various price points.
+Basing our business validation process in lean startup methodology, we calculated market sizing, explored existing box subscription competitors, created models for sourcing and channel distribution, and figured out the economics of product/marketing cost versus revenue at various price points.
 
 <div class="carousel carousel-slider" data-indicators="true">
     <a class="carousel-item" href="#one!"><img src="post_business1.jpg"></a>
@@ -137,7 +137,7 @@ In order to present the initial body of work done on Post from the Past, I also 
 
 A first iteration was mapped out in the physical space and a second round of exhibition designs were sketched out and then modeled in Illustrator in order to get approval for installation.
 
-I did all of the fabrication and construction for the physical installation. Here's a peak into the final uncovering of the stenciled large script words that served to ground the piece:
+I did all of the fabrication and construction for the physical installation. Here's a peek into the final uncovering of the stenciled large script words that served to ground the piece:
 
 <div class="video-container">
 <iframe width="640" height="360" src="https://www.youtube.com/embed/y-R2fNMAUrc" frameborder="0" allowfullscreen></iframe>

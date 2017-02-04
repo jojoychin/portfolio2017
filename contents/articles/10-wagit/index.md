@@ -25,4 +25,4 @@ For inspiration, I drew from current critiques of VR, using the player's blindne
 
 <i>Wag It</i> is built in Unity 5 and the game environment is connected to a web endpoint in order to continuously pull a mobile device's accelerometer data. The endpoint was built using JavaScript and node.js.
 
-This game was developed as part of the Intel Killscreen Scholars program.
+This game was developed as part of the 2016 Intel Kill Screen Scholars program.

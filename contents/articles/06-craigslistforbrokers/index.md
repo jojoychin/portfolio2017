@@ -21,7 +21,7 @@ mainImage: craigslist_other.jpg
 
 A complete competition analysis revealed that while there are companies out there with apps intended to help real estate brokers and their teams, ultimately many of these are hard to navigate, do not integrate with craigslist, and don't directly address the new challenges of multi-channel communication with clients that face brokers today.
 
-In order to figure out the core activites for a young, somewhat tech-saavy real estate broker in Manhatten, where high-demand neighborhoods may produce 1,000+ responses per day, I spoke with several brokers and mapped out the entire retal process from acquiring & negotiating details of service and posting an ad to scheduling, final logistics, and follow-up. From these I pulled out six core activities:
+In order to figure out the core activities for a young, somewhat tech-savvy real estate broker in Manhattan, where high-demand neighborhoods may produce 1,000+ responses per day, I spoke with several brokers and mapped out the entire retail process from acquiring & negotiating details of service and posting an ad to scheduling, final logistics, and follow-up. From these I pulled out six core activities:
 
 <img src="craigslist_coreactivities.jpg" class="materialboxed z-depth-1">
 
@@ -35,7 +35,7 @@ Mapping out a broker's possible journey through an app for specific tasks associ
 	<a class="carousel-item" href="#three!"><img src="craigslist_userjourney3.jpg"></a>
 </div>
 
-After observing and speaking with several brokers, I also noted that part of their challenge was the multitude of ways that a client could communciate with them - even just keeping track of emails, texts, and automated messages from real estate online posting sites was difficult. To deal with the volume of responses that often required automated or similar responses, I incorporated some simple AI to determine when an automated script could be selected for a response, while still giving the broker the ability to customize the message if need be. Boiled down, these needs became the core features for my app design.
+After observing and speaking with several brokers, I also noted that part of their challenge was the multitude of ways that a client could communicate with them - even just keeping track of emails, texts, and automated messages from real estate online posting sites was difficult. To deal with the volume of responses that often required automated or similar responses, I incorporated some simple AI to determine when an automated script could be selected for a response, while still giving the broker the ability to customize the message if need be. Boiled down, these needs became the core features for my app design.
 
 <img src="craigslist_corefeatures.jpg" class="materialboxed z-depth-1">
 

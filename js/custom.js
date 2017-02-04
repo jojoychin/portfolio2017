@@ -17,14 +17,14 @@ $(document).ready(function() {
 function autoplay() {
 	// if (!click){
 		$('.carousel').carousel('next');
-		setTimeout(autoplay, 4000);
+		setTimeout(autoplay, 6000);
 	// }
 }
 
 $('.button-down a').click(function(){
     $('html, body').animate({
         scrollTop: $( $(this).attr('href') ).offset().top
-    }, 1000);
+    }, 600);
     return false;
 });
 

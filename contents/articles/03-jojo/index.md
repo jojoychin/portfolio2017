@@ -13,7 +13,6 @@ roles: interaction designer<br>front-end web dev<br>UX researcher
 collaborators: Jaskirat Sr<br>Myles Coolen
 timeframe: July 2016 - March 2017
 mainImage: feature.jpg
-_video: //www.youtube.com/embed/FyZroOKK28E
  
 ---
 

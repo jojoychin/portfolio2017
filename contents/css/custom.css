@@ -100,6 +100,10 @@ a {
   line-height: 1em;
 }
 
+p a:hover {
+  border-bottom: solid 1px #008D86;
+}
+
 blockquote {
   margin-left: 1em;
   border-left: 5px solid #008D86;

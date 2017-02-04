@@ -3,7 +3,7 @@ title: Post from the Past
 author: joanna
 date: 2012-10-01 15:00
 template: article.jade
-excerpt: A mysterious and immersive in-home experience uncovering the untold personal stories of historical figures
+excerpt: A mysterious and immersive in-home experience uncovering the personal stories of historical figures
 tag1: immersive packages
 tag2: telling the stories
 tag3: of historical people
@@ -18,7 +18,7 @@ featured: true
 
 ---
 
-<i>Post from the Past (PFTP)</i> is an immersive in-home experience in which you receive physical packages from historical figures in order to uncover the mystery of their personal story online. Hear their voices, explore artifacts from their life, and search our digital archives to fit together the multi-media puzzle pieces that reveal their story. through an immersive physical and digital journey. PFTP originated during (and won) a design jam for A+E History Channel. It was also a 2016 NYC Media Lab Combine (a pre-accelerator program for tech & media startups) selectee and New Challenge Winner, which provided the structure for <a href="#business">proving out the business</a> and social impact aspects of the project. An <a href="#exhibition">installation</a> showing the user journey was designed for the 2016 MFA Design & Technology thesis show.
+<i>Post from the Past (PFTP)</i> is an immersive in-home experience in which you receive physical packages from historical figures in order to uncover the mystery of their personal story online. Hear their voices, explore artifacts from their life, and search our digital archives to fit together the multi-media puzzle pieces that reveal their story. PFTP originated during (and won) a design jam for A+E History Channel. It was also a 2016 NYC Media Lab Combine (a pre-accelerator program for tech & media startups) selectee and New Challenge Winner, which provided the structure for <a href="#business">proving out the business</a> and social impact aspects of the project. An <a href="#exhibition">installation</a> showing the user journey was designed for the 2016 MFA Design & Technology thesis show.
 
 <h2 class="project-sub">Challenge</h2>
 

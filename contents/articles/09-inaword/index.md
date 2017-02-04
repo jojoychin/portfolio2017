@@ -6,7 +6,7 @@ template: article.jade
 tag1: opening credits for
 tag2: performance of
 tag3: in a word
-excerpt: Opening credits for performance of <i>in a word</i>
+excerpt: Opening credits for a performance of <i>in a word</i>
 type: chatbot<br>critical design
 roles: interaction designer<br>content strategist<br>web developer
 timeframe: 12 hours

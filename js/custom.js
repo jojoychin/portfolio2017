@@ -24,7 +24,7 @@ function autoplay() {
 $('.button-down a').click(function(){
     $('body').animate({
         scrollTop: $( $(this).attr('href') ).offset().top
-    }, 400);
+    }, 1000);
     return false;
 });
 

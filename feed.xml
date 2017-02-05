@@ -294,6 +294,17 @@
 </description>
     </item>
     <item>
+      <title>in a word</title>
+      <link>http://localhost:8080/articles/09-inaword/</link>
+      <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/09-inaword/</guid>
+      <author></author>
+      <description>&lt;p&gt;Brief opening credits for the play, &lt;i&gt;in a word&lt;/i&gt; (by Lauren Yee) directed and performed by students in The New School drama department. Animations were hand-drawn and the motion design was done in After Effects.&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;inaword_other.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;inaword_other2.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Wag It</title>
       <link>http://localhost:8080/articles/10-wagit/</link>
       <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
@@ -305,17 +316,6 @@
 &lt;p&gt;&lt;img src=&quot;wagit_other.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;i&gt;Wag It&lt;/i&gt; is built in Unity 5 and the game environment is connected to a web endpoint in order to continuously pull a mobile device’s accelerometer data. The endpoint was built using JavaScript and node.js.&lt;/p&gt;
 &lt;p&gt;This game was developed as part of the 2016 Intel Kill Screen Scholars program.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>in a word</title>
-      <link>http://localhost:8080/articles/09-inaword/</link>
-      <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/09-inaword/</guid>
-      <author></author>
-      <description>&lt;p&gt;Brief opening credits for the play, &lt;i&gt;in a word&lt;/i&gt; (by Lauren Yee) directed and performed by students in The New School drama department. Animations were hand-drawn and the motion design was done in After Effects.&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;inaword_other.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;inaword_other2.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
 </description>
     </item>
     <item>

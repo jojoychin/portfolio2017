@@ -44,7 +44,7 @@
       <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
       <guid isPermaLink="true">http://localhost:8080/articles/01-postfromthepast/</guid>
       <author></author>
-      <description>&lt;p&gt;&lt;i&gt;Post from the Past (PFTP)&lt;/i&gt; is an immersive in-home experience in which you receive physical packages from historical figures in order to uncover the mystery of their personal story online. Hear their voices, explore artifacts from their life, and search our digital archives to fit together the multi-media puzzle pieces that reveal their story. PFTP originated during (and won) a design jam for A+E History Channel. It was also a 2016 NYC Media Lab Combine (a pre-accelerator program for tech &amp;amp; media startups) selectee and New Challenge Winner, which provided the structure for &lt;a href=&quot;#business&quot;&gt;proving out the business&lt;/a&gt; and social impact aspects of the project. An &lt;a href=&quot;#exhibition&quot;&gt;installation&lt;/a&gt; showing the user journey was designed for the 2016 MFA Design &amp;amp; Technology thesis show.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;i&gt;Post from the Past (PFTP)&lt;/i&gt; is an immersive in-home experience in which you receive physical packages from historical figures in order to uncover the mystery of their personal story online. Hear their voices, explore artifacts from their life, and search digital archives to fit together the multi-media puzzle pieces that reveal their story. PFTP originated during (and won) a design jam for A+E History Channel. It was also a 2016 NYC Media Lab Combine selectee and New Challenge Winner, which provided the structure for &lt;a href=&quot;#business&quot;&gt;proving out the business&lt;/a&gt; and social impact aspects of the project. An &lt;a href=&quot;#exhibition&quot;&gt;installation&lt;/a&gt; showing the user journey was designed for the 2016 MFA Design &amp;amp; Technology thesis show.&lt;/p&gt;
 &lt;h2 class=&quot;project-sub&quot;&gt;Challenge&lt;/h2&gt;
 
 &lt;p&gt;There is a lack of engagement and meaningful learning of history in pre-college education and a limited number of avenues for continued enrichment post-college graduation. As the humanities continue to lose prestige and resources in the pre-college education system, there is a danger that the knowledge and critical thinking skills developed through rigorous history instruction will be lost in future generations. Furthermore, in many classrooms history is communicated through reading textbooks focusing on “Great White Man History” and the recitation of dates and absolute facts, which do not provide for deeper/connected learning of historical concepts and also do nothing to create connected or enthusiastic lifelong learners.&lt;/p&gt;
@@ -53,7 +53,7 @@
 &lt;p&gt;Post from the Past seeks to make learning history a more accessible, authentic, and engaging experience. Using game mechanics, we are attempting to mimic and train current and future generations around how to do research - sifting through information, filtering and synthesizing primary and secondary sources, and using critical thinking skills to draw their own informed conclusions about contested historical events. Furthermore, we aim to build a sustainable business that will enable us to advance this social mission.&lt;/p&gt;
 &lt;h3 class=&quot;project-sub-main&quot;&gt;Product Design Process&lt;/h3&gt;
 
-&lt;p&gt;The development of Post from the Past has been through several stages of product development: design sprint for the A+E History Channel, a 4-month research, business validation, and product development phase with the NYC Media Lab Combine, and our current phase, which involves 3-week design sprints to further develop and test the digital product. In addition to leading the team and serving as the primary product designer/developer for the second phase, I also created an exhibition to promote our product and process for my MFA Design &amp;amp; Technology thesis show.&lt;/p&gt;
+&lt;p&gt;The development of Post from the Past has been through several stages of product development: design sprint for the A+E History Channel, a 4-month research, business validation, and product development phase with the NYC Media Lab Combine (a pre-accelerator program for tech &amp;amp; media startups), and our current phase, which involves 3-week design sprints to further develop and test the digital product. In addition to leading the team and serving as the primary product designer/developer for the second phase, I also created an exhibition to promote our product and process for my MFA Design &amp;amp; Technology thesis show.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;post_brainstorming.JPG&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
 &lt;p&gt;The minimum viable product was conceived and created in less than 24 hours for the A+E History Channel design jam. Collectively, my three teammates and I brainstormed the basic concept, researched its fit within the existing A+E History Channel product ecosystem, and developed a streamlined user experience. We created a physical product, basic web app UI, and a video to capture the narrative experience.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;post_main2.gif&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
@@ -137,6 +137,27 @@
 &lt;/div&gt;</description>
     </item>
     <item>
+      <title>NYC Data Visualized</title>
+      <link>http://localhost:8080/articles/04-nycmayorsoffice/</link>
+      <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/04-nycmayorsoffice/</guid>
+      <author></author>
+      <description>&lt;p&gt;These web-based, interactive data visualizations were created for the NYC Mayor’s Office to visualize data from their &lt;a href=&quot;http://www1.nyc.gov/site/hhsaccelerator/index.page&quot;&gt;HHS Accelerator&lt;/a&gt;. The visualizations were built using HTML/CSS, JavaScript, D3.js, and the JavaScript InfoVis Toolkit.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;During my 2015 summer internship with the NYC Mayor’s Office, I worked to fulfill the design and data visualization needs in the Office of Operations, which is responsible for running and evaluating HHS Accelerator. HHS Accelerator is an online-system designed to improve the City’s contracting process by consolidating access to the city’s funding opportunities (across departments) and providing financial transaction capabilities.&lt;/p&gt;
+&lt;p&gt;My particular goal was to analyze three years-worth of data from HHS Accelerator and visualize it in a way that could be used for internal staff to see the number of pre-qualified providers, RFPs, and groups funded in each service areas, as well as get broader sense of the usefulness of their existing taxonomy.&lt;/p&gt;
+&lt;h3 class=&quot;project-sub-main&quot;&gt;Process&lt;/h3&gt;
+
+&lt;p&gt;I started the process by reading existing documents about HHS Accelerator, exploring how I as a user might journey through its systems, and speaking with in-house designers, policy experts, engineers, and data scientists to understand the needs of the office and its constituents. I analyzed what data had been collected over the last three years since the program’s inception and became to sketch out what aspects might be most useful for the Office of Operations staff and some of major health and human services stakeholders who had helped shaped the initial platform.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;mayors_sketch.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;I created paper prototypes, which were shown to a small group of Operation Office stakeholders before quickly creating a version of the interactive visualizations on the web. This first digital prototype was presented in a larger meeting of stakeholders so that they could see how the data might be interacted with on the web and for them to provide input.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;mayors_main.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;mayors_other2.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Based on their feedback and the existing design guidelines for the Accelerator program, I created a new iteration of visualizations that were linked to real datasets, balancing my design and interaction sense with the expressed needs of my clients. This iteration of visualizations was presented to a working group that suggested final tweaks. My final deliverables included the code and documentation about how the data visualizations were structured and rendered.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;mayors_main2.gif&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>JOJO</title>
       <link>http://localhost:8080/articles/03-jojo/</link>
       <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
@@ -159,27 +180,6 @@
 &lt;h2 class=&quot;project-sub&quot;&gt;My Role&lt;/h2&gt;
 
 &lt;p&gt;My contribution to the project included a mix of UX design, technical prototyping, and product positioning. I led much of the service design work - creating service blueprints, sequence diagrams, annotated wireframes - as well as the content strategy - crafting dialog trees and structuring the intents and entities in the bot framework. I collaborated with another designer on the visual design of the user interfaces, which included the mobile conversational UI plus a mission control dashboard and an analytics page (for the hospitality vertical). On the technical side, I did a lot of the bot scripting (coding the conversation waterfall and specific bot responses) and training, as well as provided engineering support on the web application front end to our primary tech specialist.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>NYC Data Visualized</title>
-      <link>http://localhost:8080/articles/04-nycmayorsoffice/</link>
-      <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/04-nycmayorsoffice/</guid>
-      <author></author>
-      <description>&lt;p&gt;These web-based, interactive data visualizations were created for the NYC Mayor’s Office to visualize data from their &lt;a href=&quot;http://www1.nyc.gov/site/hhsaccelerator/index.page&quot;&gt;HHS Accelerator&lt;/a&gt;. The visualizations were built using HTML/CSS, JavaScript, D3.js, and the JavaScript InfoVis Toolkit.&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;During my 2015 summer internship with the NYC Mayor’s Office, I worked to fulfill the design and data visualization needs in the Office of Operations, which is responsible for running and evaluating HHS Accelerator. HHS Accelerator is an online-system designed to improve the City’s contracting process by consolidating access to the city’s funding opportunities (across departments) and providing financial transaction capabilities.&lt;/p&gt;
-&lt;p&gt;My particular goal was to analyze three years-worth of data from HHS Accelerator and visualize it in a way that could be used for internal staff to see the number of pre-qualified providers, RFPs, and groups funded in each service areas, as well as get broader sense of the usefulness of their existing taxonomy.&lt;/p&gt;
-&lt;h3 class=&quot;project-sub-main&quot;&gt;Process&lt;/h3&gt;
-
-&lt;p&gt;I started the process by reading existing documents about HHS Accelerator, exploring how I as a user might journey through its systems, and speaking with in-house designers, policy experts, engineers, and data scientists to understand the needs of the office and its constituents. I analyzed what data had been collected over the last three years since the program’s inception and became to sketch out what aspects might be most useful for the Office of Operations staff and some of major health and human services stakeholders who had helped shaped the initial platform.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;mayors_sketch.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;I created paper prototypes, which were shown to a small group of Operation Office stakeholders before quickly creating a version of the interactive visualizations on the web. This first digital prototype was presented in a larger meeting of stakeholders so that they could see how the data might be interacted with on the web and for them to provide input.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;mayors_main.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;mayors_other2.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Based on their feedback and the existing design guidelines for the Accelerator program, I created a new iteration of visualizations that were linked to real datasets, balancing my design and interaction sense with the expressed needs of my clients. This iteration of visualizations was presented to a working group that suggested final tweaks. My final deliverables included the code and documentation about how the data visualizations were structured and rendered.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;mayors_main2.gif&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -216,31 +216,18 @@
 </description>
     </item>
     <item>
-      <title>Craigslist for Brokers</title>
-      <link>http://localhost:8080/articles/06-craigslistforbrokers/</link>
+      <title>Between the Beats</title>
+      <link>http://localhost:8080/articles/08-betweenthebeats/</link>
       <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/06-craigslistforbrokers/</guid>
+      <guid isPermaLink="true">http://localhost:8080/articles/08-betweenthebeats/</guid>
       <author></author>
-      <description>&lt;p&gt;&lt;i&gt;Craigslist for Brokers&lt;/i&gt; is a design concept for creating a real estate broker’s companion application for rental postings on craigslist.&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;A complete competition analysis revealed that while there are companies out there with apps intended to help real estate brokers and their teams, ultimately many of these are hard to navigate, do not integrate with craigslist, and don’t directly address the new challenges of multi-channel communication with clients that face brokers today.&lt;/p&gt;
-&lt;p&gt;In order to figure out the core activities for a young, somewhat tech-savvy real estate broker in Manhattan, where high-demand neighborhoods may produce 1,000+ responses per day, I spoke with several brokers and mapped out the entire retail process from acquiring &amp;amp; negotiating details of service and posting an ad to scheduling, final logistics, and follow-up. From these I pulled out six core activities:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;craigslist_coreactivities.jpg&quot; class=&quot;materialboxed z-depth-1&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Because some of these are needs are fulfilled already by craigslist or other competitor apps, I pulled out managing customer communications as one place with potential for more innovation in order to improve organization of clients and speed of response.&lt;/p&gt;
-&lt;p&gt;Mapping out a broker’s possible journey through an app for specific tasks associated with client management showed me places where a user might want quick access to a specific client or property.&lt;/p&gt;
-&lt;div class=&quot;carousel carousel-slider&quot; data-indicators=&quot;true&quot;&gt;
-    &lt;a class=&quot;carousel-item&quot; href=&quot;#one!&quot;&gt;&lt;img src=&quot;craigslist_userjourney1.jpg&quot;&gt;&lt;/a&gt;
-    &lt;a class=&quot;carousel-item&quot; href=&quot;#two!&quot;&gt;&lt;img src=&quot;craigslist_userjourney2.jpg&quot;&gt;&lt;/a&gt;
-    &lt;a class=&quot;carousel-item&quot; href=&quot;#three!&quot;&gt;&lt;img src=&quot;craigslist_userjourney3.jpg&quot;&gt;&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;p&gt;After observing and speaking with several brokers, I also noted that part of their challenge was the multitude of ways that a client could communicate with them - even just keeping track of emails, texts, and automated messages from real estate online posting sites was difficult. To deal with the volume of responses that often required automated or similar responses, I incorporated some simple AI to determine when an automated script could be selected for a response, while still giving the broker the ability to customize the message if need be. Boiled down, these needs became the core features for my app design.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;craigslist_corefeatures.jpg&quot; class=&quot;materialboxed z-depth-1&quot;&gt;&lt;/p&gt;
-&lt;p&gt;In order to mockup the proposed application with these core features, I first sketched out general screen flows, created some quick digital wireframes, and designed the final user interface designs.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;craigslist_sketches.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;craigslist_wires.png&quot; class=&quot;materialboxed z-depth-1&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;craigslist_UI.jpg&quot; class=&quot;materialboxed z-depth-1&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;i&gt;Craigslist for Brokers&lt;/i&gt; was created in response to a design challenge for Moment design studio.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;i&gt;Between the Beats&lt;/i&gt; is a short motion graphics piece created for a fictional music channel that delivers “music to get you in the mood.”&lt;/p&gt;
+&lt;p&gt;Starting with style frames, I established three distinct visual styles and vocabulary.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;btb_other.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;After deciding on an aesthetic direction based on user testing the readability of each of these designs, I created a storyboard to articulate and flesh out the visual style and start to encapsulate the motion and transition design as well. I drew from Blue Note records cover art as one major source of inspiration.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;btb_storyboard.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;The final motion graphics piece was done in After Effects and pushes the idea of music hidden under clothing and in the spaces in between to highlight the unique edgy and irreverent personality of this sexy music channel.&lt;/p&gt;
+&lt;p&gt;This piece was shown as part of a projection piece at the Parsons Fashion Gala (2016).&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -279,18 +266,31 @@
 </description>
     </item>
     <item>
-      <title>Between the Beats</title>
-      <link>http://localhost:8080/articles/08-betweenthebeats/</link>
+      <title>Craigslist for Brokers</title>
+      <link>http://localhost:8080/articles/06-craigslistforbrokers/</link>
       <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/08-betweenthebeats/</guid>
+      <guid isPermaLink="true">http://localhost:8080/articles/06-craigslistforbrokers/</guid>
       <author></author>
-      <description>&lt;p&gt;&lt;i&gt;Between the Beats&lt;/i&gt; is a short motion graphics piece created for a fictional music channel that delivers “music to get you in the mood.”&lt;/p&gt;
-&lt;p&gt;Starting with style frames, I established three distinct visual styles and vocabulary.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;btb_other.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;After deciding on an aesthetic direction based on user testing the readability of each of these designs, I created a storyboard to articulate and flesh out the visual style and start to encapsulate the motion and transition design as well. I drew from Blue Note records cover art as one major source of inspiration.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;btb_storyboard.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;The final motion graphics piece was done in After Effects and pushes the idea of music hidden under clothing and in the spaces in between to highlight the unique edgy and irreverent personality of this sexy music channel.&lt;/p&gt;
-&lt;p&gt;This piece was shown as part of a projection piece at the Parsons Fashion Gala (2016).&lt;/p&gt;
+      <description>&lt;p&gt;&lt;i&gt;Craigslist for Brokers&lt;/i&gt; is a design concept for creating a real estate broker’s companion application for rental postings on craigslist.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;A complete competition analysis revealed that while there are companies out there with apps intended to help real estate brokers and their teams, ultimately many of these are hard to navigate, do not integrate with craigslist, and don’t directly address the new challenges of multi-channel communication with clients that face brokers today.&lt;/p&gt;
+&lt;p&gt;In order to figure out the core activities for a young, somewhat tech-savvy real estate broker in Manhattan, where high-demand neighborhoods may produce 1,000+ responses per day, I spoke with several brokers and mapped out the entire retail process from acquiring &amp;amp; negotiating details of service and posting an ad to scheduling, final logistics, and follow-up. From these I pulled out six core activities:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;craigslist_coreactivities.jpg&quot; class=&quot;materialboxed z-depth-1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Because some of these are needs are fulfilled already by craigslist or other competitor apps, I pulled out managing customer communications as one place with potential for more innovation in order to improve organization of clients and speed of response.&lt;/p&gt;
+&lt;p&gt;Mapping out a broker’s possible journey through an app for specific tasks associated with client management showed me places where a user might want quick access to a specific client or property.&lt;/p&gt;
+&lt;div class=&quot;carousel carousel-slider&quot; data-indicators=&quot;true&quot;&gt;
+    &lt;a class=&quot;carousel-item&quot; href=&quot;#one!&quot;&gt;&lt;img src=&quot;craigslist_userjourney1.jpg&quot;&gt;&lt;/a&gt;
+    &lt;a class=&quot;carousel-item&quot; href=&quot;#two!&quot;&gt;&lt;img src=&quot;craigslist_userjourney2.jpg&quot;&gt;&lt;/a&gt;
+    &lt;a class=&quot;carousel-item&quot; href=&quot;#three!&quot;&gt;&lt;img src=&quot;craigslist_userjourney3.jpg&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;After observing and speaking with several brokers, I also noted that part of their challenge was the multitude of ways that a client could communicate with them - even just keeping track of emails, texts, and automated messages from real estate online posting sites was difficult. To deal with the volume of responses that often required automated or similar responses, I incorporated some simple AI to determine when an automated script could be selected for a response, while still giving the broker the ability to customize the message if need be. Boiled down, these needs became the core features for my app design.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;craigslist_corefeatures.jpg&quot; class=&quot;materialboxed z-depth-1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;In order to mockup the proposed application with these core features, I first sketched out general screen flows, created some quick digital wireframes, and designed the final user interface designs.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;craigslist_sketches.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;craigslist_wires.png&quot; class=&quot;materialboxed z-depth-1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;craigslist_UI.jpg&quot; class=&quot;materialboxed z-depth-1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Craigslist for Brokers&lt;/i&gt; was created in response to a design challenge for Moment design studio.&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -302,20 +302,6 @@
       <description>&lt;p&gt;Brief opening credits for the play, &lt;i&gt;in a word&lt;/i&gt; (by Lauren Yee) directed and performed by students in The New School drama department. Animations were hand-drawn and the motion design was done in After Effects.&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;inaword_other.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;inaword_other2.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Wag It</title>
-      <link>http://localhost:8080/articles/10-wagit/</link>
-      <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/10-wagit/</guid>
-      <author></author>
-      <description>&lt;p&gt;&lt;i&gt;Wag It&lt;/i&gt; is a virtual reality game in which one plays a dog searching for love and attention by wagging her tail (i.e., shaking her butt). A player dons an Oculus Rift and uses a mobile device placed in her back pocket to measure wagging motion.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;wagit_other2.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;For inspiration, I drew from current critiques of VR, using the player’s blindness/isolation in the headset as a way to provide entertainment not only for the primary user but also those around her. A related impetus for this project was the challenge of creating a scenario in which a person would willingly act a little ridiculous.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;wagit_other.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;i&gt;Wag It&lt;/i&gt; is built in Unity 5 and the game environment is connected to a web endpoint in order to continuously pull a mobile device’s accelerometer data. The endpoint was built using JavaScript and node.js.&lt;/p&gt;
-&lt;p&gt;This game was developed as part of the 2016 Intel Kill Screen Scholars program.&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -342,6 +328,20 @@
 &lt;div class=&quot;video-container&quot;&gt;
 &lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/86cJoypqFew&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
+</description>
+    </item>
+    <item>
+      <title>Wag It</title>
+      <link>http://localhost:8080/articles/10-wagit/</link>
+      <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/10-wagit/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;i&gt;Wag It&lt;/i&gt; is a virtual reality game in which one plays a dog searching for love and attention by wagging her tail (i.e., shaking her butt). A player dons an Oculus Rift and uses a mobile device placed in her back pocket to measure wagging motion.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;wagit_other2.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;For inspiration, I drew from current critiques of VR, using the player’s blindness/isolation in the headset as a way to provide entertainment not only for the primary user but also those around her. A related impetus for this project was the challenge of creating a scenario in which a person would willingly act a little ridiculous.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;wagit_other.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Wag It&lt;/i&gt; is built in Unity 5 and the game environment is connected to a web endpoint in order to continuously pull a mobile device’s accelerometer data. The endpoint was built using JavaScript and node.js.&lt;/p&gt;
+&lt;p&gt;This game was developed as part of the 2016 Intel Kill Screen Scholars program.&lt;/p&gt;
 </description>
     </item>
     <item>

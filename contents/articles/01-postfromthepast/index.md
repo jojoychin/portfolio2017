@@ -18,7 +18,7 @@ featured: true
 
 ---
 
-<i>Post from the Past (PFTP)</i> is an immersive in-home experience in which you receive physical packages from historical figures in order to uncover the mystery of their personal story online. Hear their voices, explore artifacts from their life, and search our digital archives to fit together the multi-media puzzle pieces that reveal their story. PFTP originated during (and won) a design jam for A+E History Channel. It was also a 2016 NYC Media Lab Combine (a pre-accelerator program for tech & media startups) selectee and New Challenge Winner, which provided the structure for <a href="#business">proving out the business</a> and social impact aspects of the project. An <a href="#exhibition">installation</a> showing the user journey was designed for the 2016 MFA Design & Technology thesis show.
+<i>Post from the Past (PFTP)</i> is an immersive in-home experience in which you receive physical packages from historical figures in order to uncover the mystery of their personal story online. Hear their voices, explore artifacts from their life, and search digital archives to fit together the multi-media puzzle pieces that reveal their story. PFTP originated during (and won) a design jam for A+E History Channel. It was also a 2016 NYC Media Lab Combine selectee and New Challenge Winner, which provided the structure for <a href="#business">proving out the business</a> and social impact aspects of the project. An <a href="#exhibition">installation</a> showing the user journey was designed for the 2016 MFA Design & Technology thesis show.
 
 <h2 class="project-sub">Challenge</h2>
 
@@ -30,7 +30,7 @@ Post from the Past seeks to make learning history a more accessible, authentic, 
 
 <h3 class="project-sub-main">Product Design Process</h3>
 
-The development of Post from the Past has been through several stages of product development: design sprint for the A+E History Channel, a 4-month research, business validation, and product development phase with the NYC Media Lab Combine, and our current phase, which involves 3-week design sprints to further develop and test the digital product. In addition to leading the team and serving as the primary product designer/developer for the second phase, I also created an exhibition to promote our product and process for my MFA Design & Technology thesis show.
+The development of Post from the Past has been through several stages of product development: design sprint for the A+E History Channel, a 4-month research, business validation, and product development phase with the NYC Media Lab Combine (a pre-accelerator program for tech & media startups), and our current phase, which involves 3-week design sprints to further develop and test the digital product. In addition to leading the team and serving as the primary product designer/developer for the second phase, I also created an exhibition to promote our product and process for my MFA Design & Technology thesis show.
 
 <img src="post_brainstorming.JPG" class="materialboxed">
 

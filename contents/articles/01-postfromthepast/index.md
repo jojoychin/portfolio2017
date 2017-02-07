@@ -26,7 +26,7 @@ There is a lack of engagement and meaningful learning of history in pre-college 
 
 <h2 class="project-sub">Goal</h2>
 
-Post from the Past seeks to make learning history a more accessible, authentic, and engaging experience. Using game mechanics, we are attempting to mimic and train current and future generations around how to do research - sifting through information, filtering and synthesizing primary and secondary sources, and using critical thinking skills to draw their own informed conclusions about contested historical events. Furthermore, we aim to build a sustainable business that will enable us to advance this social mission.
+Post from the Past seeks to make learning history a more accessible, authentic, and engaging experience. Using game mechanics, we are attempting to mimic and train current and future generations around how to do research - sifting through information, filtering and synthesizing primary and secondary sources, and using critical thinking skills to draw informed conclusions about contested historical events. Furthermore, we aim to build a sustainable business that will enable us to advance this social mission.
 
 <h3 class="project-sub-main">Product Design Process</h3>
 
@@ -42,7 +42,7 @@ The minimum viable product was conceived and created in less than 24 hours for t
 
 <h2 class="project-sub">Fabrication & Tech Iterations</h2>
 
-On the product side, I sourced and fabricated all physical components and developed/tested the tech integration. Fabrication involved reproducing artifacts from the historical figure's life and sourcing them when possible in order to balance my production time cost and customizability against the cost and authenticity of sourced objects.
+On the product side, I sourced and fabricated all physical components and developed/tested the tech integration. Fabrication involved reproducing artifacts from the historical figure's life and sourcing historically accurate items when possible. My primary goal was to balance my production time and customizability against the cost and authenticity of sourced objects.
 
 <div class="carousel carousel-slider" data-indicators="true">
     <a class="carousel-item" href="#one!"><img src="post_box3.jpeg"></a>

@@ -8,7 +8,7 @@ tag1: immersive packages
 tag2: telling the stories
 tag3: of historical people
 client: Post from the Past, LLC
-type: physical-digital in-home storytelling and game experience
+type: physical-digital transmedia<br>in-home storytelling and game experience
 roles: product manager<br>interaction designer<br>content strategist<br>UX researcher<br>physical fabricator
 collaborators: Bryan Collinsworth<br>Shakti Mb<br>Jaskirat Sr
 timeframe: November 2015 - present
@@ -22,7 +22,7 @@ featured: true
 
 <h2 class="project-sub">Challenge</h2>
 
-There is a lack of engagement and meaningful learning of history in pre-college education and a limited number of avenues for continued enrichment post-college graduation. As the humanities continue to lose prestige and resources in the pre-college education system, there is a danger that the knowledge and critical thinking skills developed through rigorous history instruction will be lost in future generations. Furthermore, in many classrooms history is communicated through reading textbooks focusing on “Great White Man History” and the recitation of dates and absolute facts, which do not provide for deeper/connected learning of historical concepts and also do nothing to create connected or enthusiastic lifelong learners.
+There is a lack of engagement and meaningful learning of history in pre-college education and limited avenues for continued enrichment post-college graduation. As the humanities continue to lose prestige and resources in the pre-college education system, there is a danger that the knowledge and critical thinking skills developed through rigorous history instruction will be lost in future generations. Furthermore, in many classrooms history is taught using textbooks that focus on “Great White Man History” and the recitation of dates and absolute facts, which do not provide for deeper/connected learning of historical concepts and also do nothing to create connected or enthusiastic lifelong learners.
 
 <h2 class="project-sub">Goal</h2>
 
@@ -30,7 +30,7 @@ Post from the Past seeks to make learning history a more accessible, authentic, 
 
 <h3 class="project-sub-main">Product Design Process</h3>
 
-The development of Post from the Past has been through several stages of product development: design sprint for the A+E History Channel, a 4-month research, business validation, and product development phase with the NYC Media Lab Combine (a pre-accelerator program for tech & media startups), and our current phase, which involves 3-week design sprints to further develop and test the digital product. In addition to leading the team and serving as the primary product designer/developer for the second phase, I also created an exhibition to promote our product and process for my MFA Design & Technology thesis show.
+Post from the Past's growth has included several stages of product development: design sprint for the A+E History Channel, a 4-month research, business validation, and product development phase with the NYC Media Lab Combine (a pre-accelerator program for tech & media startups), and our current phase, which involves 3-week design sprints to further develop and test the digital product. In addition to leading the team and serving as the primary product designer/developer for the second phase, I also created an exhibition to promote our product and process for my MFA Design & Technology thesis show.
 
 <img src="post_brainstorming.JPG" class="materialboxed">
 
@@ -42,7 +42,7 @@ The minimum viable product was conceived and created in less than 24 hours for t
 
 <h2 class="project-sub">Fabrication & Tech Iterations</h2>
 
-On the product side, I sourced and fabricated all physical components and developed/tested the tech integration. Fabrication involved reproducing artifacts from the historical figure's life and sourcing historically accurate items when possible. My primary goal was to balance my production time and customizability against the cost and authenticity of sourced objects.
+On the product side, I sourced and fabricated all physical components and developed/tested the tech integration. Fabrication involved reproducing artifacts from the historical figure's life, as well as sourcing historically accurate items when possible. My primary goal was to balance my production time and customizability against the cost and authenticity of sourced objects.
 
 <div class="carousel carousel-slider" data-indicators="true">
     <a class="carousel-item" href="#one!"><img src="post_box3.jpeg"></a>
@@ -62,13 +62,13 @@ After numerous rounds of testing, I ended up finding a middle ground between the
 
 <h2 class="project-sub">Content strategy</h2>
 
-Working with another narrative expert, I crafted the entire story told through the objects included in the mailings, accompanying audio script, and web app. This involved in-depth research into the featured historical person and the time, place(s), and people connected to her. In addition to synthesizing this information into lively first-person narration and creative multi-media pieces, I also mapped out the content flow for the web app, so that we could start to understand possible structures for the digital platform. 
+Working with another narrative expert, I crafted the entire story, which was told through the objects included in the mailings, accompanying audio script, and web app. This involved in-depth research into the featured historical person and the time, place(s), and people connected to her. In addition to synthesizing this information into lively first-person narration and creative multi-media pieces, I also mapped out the content flow for the web app, so that we could start to understand possible structures for the digital platform. 
 
 <img src="post_contentflow.jpg" class="materialboxed">
 
 <h2 class="project-sub">Digital Product UX</h2>
 
-Working with another UX/UI designer, I created wireframes and developed the latest iteration of UI, integrating the content I created into the final designs for the web app. I incorporated all of these into the prototype for the app (using InVision), and developed the first iteration of the web app after a round of user testing and design revisions.
+Working with another UX/UI designer, I created wireframes and developed multiple iterations of UI, integrating the content I created into designs for the web app. I incorporated all of these into the first testable prototype for the app (using InVision), and the first iteration of the developed web app, which was also influenced by a round of user testing and design revisions.
 
 <img src="post_uisketch.jpeg" class="materialboxed">
 
@@ -76,7 +76,7 @@ Working with another UX/UI designer, I created wireframes and developed the late
 
 <img src="post_UX2.jpg" class="materialboxed">
 
-As a result of user testing, in recent months, our team has pivoted our digital product to more closely mirror the physical experience of exploration and to put more emphasis on a game-like experience. In its most recent iteration, the digital component focuses on uncovering pieces of the historical figure's story by searching keywords and unlocking lines on a crucial redacted file.
+As a result of more extensive user testing, in recent months, our team has pivoted our digital product to more closely mirror the physical experience of exploration and to put more emphasis on a game-like experience. In its most recent iteration, the digital component focuses on uncovering pieces of the historical figure's story by searching keywords and unlocking lines on a crucial redacted file.
 
 <h2 class="project-sub">User Testing</h2>
 
@@ -107,7 +107,7 @@ Here's a video summarizing our journey and some high level findings:
 <iframe width="640" height="360" src="https://www.youtube.com/embed/-YhTu8hyqxQ" frameborder="0" allowfullscreen></iframe>
 </div>
 
-From these interviews we established that our target customer was a relatively settled adult who is looking for new and more interactive ways to consume topics of interest (that they do not necessarily associate with "hardcore history"). This ideal consumer might also have a child with who they want to share their love to learning and think of PFTP as a way to spend quality time together.
+From these interviews we established that our target customer was a relatively settled adult who is looking for new and more interactive ways to consume topics of interest (many of which they do not necessarily think of as history). This ideal consumer might also have a child with who they want to share their love to learning and think of PFTP as a way to spend quality time together.
 
 <h2 class="project-sub">Business Planning</h2>
 
@@ -137,7 +137,7 @@ In order to present the initial body of work done on Post from the Past, I also 
 
 A first iteration was mapped out in the physical space and a second round of exhibition designs were sketched out and then modeled in Illustrator in order to get approval for installation.
 
-I did all of the fabrication and construction for the physical installation. Here's a peek into the final uncovering of the stenciled large script words that served to ground the piece:
+I did all of the fabrication and construction for the physical installation. Here's a timelapse of me uncovering the stenciled large script words that served to ground the exhibition:
 
 <div class="video-container">
 <iframe width="640" height="360" src="https://www.youtube.com/embed/y-R2fNMAUrc" frameborder="0" allowfullscreen></iframe>

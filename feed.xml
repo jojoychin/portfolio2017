@@ -9,120 +9,6 @@
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
-      <title>JOJO</title>
-      <link>http://localhost:8080/articles/03-jojo/</link>
-      <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/03-jojo/</guid>
-      <author></author>
-      <description>&lt;p&gt;&lt;i&gt;JOJO&lt;/i&gt; is a chatbot system that handles questions/requests from customers and streamlines business communications and operations. It was built for a Fortune 500 telecommunications company.&lt;/p&gt;
-&lt;p&gt;&lt;i&gt;To comply with my non-disclosure agreement, I have omitted and obfuscated confidential information in this case study. The information in this case study is my own and does not necessarily reflect the views of my employer/client for this project.&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;h2 class=&quot;project-sub&quot;&gt;Challenge&lt;/h2&gt;
-
-&lt;p&gt;As with many big telecommunication companies, this one was just beginning to explore the wide variety of uses for artificial intelligence/machine learning and the ways that it might build on existing assets within their consumer-facing and enterprise business arms. While much of the engineering expertise already exists within this company’s ecosystem, part of the challenge of pursuing this emerging technology was crafting concrete use-cases that fit within the existing business goals and utilized the company’s competitive advantage.&lt;/p&gt;
-&lt;h2 class=&quot;project-sub&quot;&gt;Goal&lt;/h2&gt;
-
-&lt;p&gt;My team’s goal was to come up with and build working prototypes of chatbots that could provide new services and opportunities for the company and its customers/clients. &lt;i&gt;JOJO&lt;/i&gt; is a chatbot system that handles questions/requests from customers and streamlines business communications and operations. The system is built in a modular way, so that the four major components - conversational UI, artificial intelligence, operations dashboard, and analytics - can be pulled out and rearranged for applicability across multiple industries and for many different use-cases.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;jojo_main.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Focusing on the company’s existing industry connections, we developed JOJO as part of a complete system for the hospitality industry that would augment existing hardware/network sales. In the next few months, the system may be incorporated into a small geo-fenced ad campaign for the company’s retail branch, as a way to provide a more active way of getting new customers into nearby Verizon stores. Throughout the development process we sought to tie the bot to the company’s existing portfolio of work and continue to build support for the project internally.&lt;/p&gt;
-&lt;h3 class=&quot;project-sub-main&quot;&gt;Product Design Process&lt;/h3&gt;
-
-&lt;p&gt;The product development process incorporated industry and customer research (interviews, observation, and market research surveys), outlining specific use-cases, mapping out the conversation and user experience flows, researching and architecting the technical system, coding and training the scripts for the bot intent recognition and responses, and getting internal buy-in.&lt;/p&gt;
-&lt;h2 class=&quot;project-sub&quot;&gt;My Role&lt;/h2&gt;
-
-&lt;p&gt;My contribution to the project included a mix of UX design, technical prototyping, and product positioning. I led much of the service design work - creating service blueprints, sequence diagrams, annotated wireframes - as well as the content strategy - crafting dialog trees and structuring the intents and entities in the bot framework. I collaborated with another designer on the visual design of the user interfaces, which included the mobile conversational UI plus a mission control dashboard and an analytics page (for the hospitality vertical). On the technical side, I did a lot of the bot scripting (coding the conversation waterfall and specific bot responses) and training, as well as provided engineering support on the web application front end.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>LAMA</title>
-      <link>http://localhost:8080/articles/02-lama/</link>
-      <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/02-lama/</guid>
-      <author></author>
-      <description>&lt;p&gt;&lt;i&gt;LAMA&lt;/i&gt; was developed for the Publicis Groupe “Retail Experience of the Future” NYC Media Lab Corporate Challenge.&lt;/p&gt;
-&lt;p&gt;The basic concept is an app that stores users’ shopping lists so that when they visit a big box store, the app can automatically route them on the most efficient path to shop for their items, dynamically changing their path as the customer adds items to their Smart Cart or list. Because items are being check off as they are added to the Smart Cart, users can checkout at any time using the app on their phone.&lt;/p&gt;
-&lt;p&gt;For flagship stores, navigation data could be reflected in a light installation on the ceiling of the store adding visual interest to an otherwise mundane shopping process. Retailers also benefit by being able to add location-/user-specific ads, receive the data from consumer product choices, and understand overall store traffic patterns.&lt;/p&gt;
-&lt;h2 class=&quot;project-sub&quot;&gt;Challenge&lt;/h2&gt;
-
-&lt;p&gt;E-commerce is draining sales from brick and mortar stores. It is convenient and helps consumers avoid the stress of navigating a store and the time suck of waiting in line for checkout. However, there are some definite reasons why customers still sometimes chose to shop in-store - the experience of browsing, the ability to see and touch physical products, and the necessity of acquiring a product immediately to name a few. Looking to the future of retail, how might the in-store shopping experience be improved by our learning from e-commerce platforms?&lt;/p&gt;
-&lt;h2 class=&quot;project-sub&quot;&gt;Goal&lt;/h2&gt;
-
-&lt;p&gt;Our goal was to form a coherent and innovative solution to the problems facing in-store retail and to pitch a concept that had been tested with users and proven from a technical perspective in a relatively quick timeframe. Our solution, LAMA, not only addresses the pain points for brick and mortar customer experience at a “big box store” by incorporating successful aspects of e-commerce platforms, but also incorporates features that provide additional value for the retailer.&lt;/p&gt;
-&lt;h3 class=&quot;project-sub-main&quot;&gt;Design Process&lt;/h3&gt;
-
-&lt;p&gt;Our process for developing LAMA involved four major stages: research and synthesis of existing trends and new technology, ideation, rapid prototyping, quick user testing in the physical space, and refining the concept and interactions.&lt;/p&gt;
-&lt;h2 class=&quot;project-sub&quot;&gt;Research&lt;/h2&gt;
-
-&lt;p&gt;Our team of three, guided by designer Bernardo Schorr (Smart Design), developed LAMA by first researching examples of innovative thinking in retail and interactive spaces. We synthesized over 40 examples to identify overarching trends and analyzed what about these were successful and why.&lt;/p&gt;
-&lt;h2 class=&quot;project-sub&quot;&gt;Digital Design&lt;/h2&gt;
-
-&lt;p&gt;Once we brainstormed a concept, I led the development of a holistic user journey through the physical and digital space and developed the pitch narrative. Working with another UX/UI designer, I created the final consumer-facing screen designs and made the interactive prototype in InVision.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;lama_UX.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;h2 class=&quot;project-sub&quot;&gt;User Testing&lt;/h2&gt;
-
-&lt;p&gt;Over a week’s time, the team conducted two rounds of in-depth user testing on-site at a “big box store” with four participants. In order to get a sense of the physical aspects of the concept, we used yarn to simulate the lighted path to items on the consumer’s list.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;lama_usertesting2.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;lama_usertesting1.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;lama_usertesting3.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;In parallel to our user testing and proving out the product concept, our software developer on the project built technical mockups to test the feasibility of multiple user pathways via a custom algorithm. The final concept was presented to executives and staff of Publicis Groupe subsidiaries.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;lama_presentation.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Banal Chaos</title>
-      <link>http://localhost:8080/articles/05-banalchaos/</link>
-      <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/05-banalchaos/</guid>
-      <author></author>
-      <description>&lt;p&gt;&lt;i&gt;Banal Chaos&lt;/i&gt; is an interactive, shared and individual performance piece and pseudo-game in which audience members don headphones and listen in on the conversations/inner thoughts of strangers on the subway while performers silently act out their daily transit routine.&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;banalchaos_other3.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;h2 class=&quot;project-sub&quot;&gt;Challenge&lt;/h2&gt;
-
-&lt;p&gt;The prompt/problem for &lt;i&gt;Banal Chaos&lt;/i&gt; was more about methodology, process, and implementation than product, business, or user concerns. As a performance/installation piece conceptualized and actualized within a 24-hour period of time, the team was forced to explore differences of cross-discipline creative process, unknown variables regarding presentation, and diverse expectations about the final outcome.&lt;/p&gt;
-&lt;h2 class=&quot;project-sub&quot;&gt;Goal&lt;/h2&gt;
-
-&lt;p&gt;Our team’s goal was to create a performative response to the prompt, “banal chaos,” that was flexible enough to work for a single large group performance or groups filtering in and out of the performance space. We wanted to use tech in a way that was supported and reflected the underlying themes of the piece in an essential rather than auxiliary way.&lt;/p&gt;
-&lt;h3 class=&quot;project-sub-main&quot;&gt;Design Process&lt;/h3&gt;
-
-&lt;p&gt;I worked with a group of five to develop the concept and create basic user flow. The team, which was comprised of one film artist, an actor, a director, a playwright, and myself, had to make a concerted effort to develop a way of working together that took aspects of both design and theatre creative process. We learned quickly that individuals had very different views on process and product and that establishing a common ground of practice was essential to moving forward. We did quick individual brainstorming sessions and shared concepts with one another, building off of each other’s ideas and focusing on common themes.&lt;/p&gt;
-&lt;p&gt;We settled on developing a piece around conversations and sounds on the subway (which are banal amidst the chaos of public transportation in NYC). As the technical and interaction expert on the team, I suggested that we draw from shared experiences and common interactions on the subway.&lt;/p&gt;
-&lt;h2 class=&quot;project-sub&quot;&gt;Performance&lt;/h2&gt;
-
-&lt;p&gt;The final piece played with the everyday actions that we use in the subway - listening in on conversations, getting lost in internal thought, and putting on headphones - to explore and subvert those actions.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;banalchaos_other2.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;The audience brought their own mobile devices and headphones into the space and were invited to use them to access a web app through which they could listen to pre-recorded conversations and internal monologues from passengers. Audience members could choose “chaos” (to listen to all the conversations simultaneously) or to listen to one conversation at a time and switch between the characters; user choice was a crucial piece of the experience. The audio experience was grounded by subway sounds (recorded by one of my teammates) that played on speakers in the shared performance space.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;banalchaos_screen2.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Meanwhile, performers pantomimed the characters who are having the conversations/internal monologues. This created a situation in which audience members had to engage in order to connect what they were seeing with what they were listening to. In this way we created a piece that examines performance as a personalized experience and as a game (with audience members trying to guess which stranger’s conversation they were listening in on).&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;banalchaos_other.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;h2 class=&quot;project-sub&quot;&gt;Technical Development&lt;/h2&gt;
-
-&lt;p&gt;With a quick turn-around time, I developed and deployed the mobile web app for the project. The app is built using HTML, CSS, javascript and contains pre-recorded audio components.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;banalchaos_screen3.JPG&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>NYC Data Visualized</title>
-      <link>http://localhost:8080/articles/04-nycmayorsoffice/</link>
-      <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/04-nycmayorsoffice/</guid>
-      <author></author>
-      <description>&lt;p&gt;These web-based, interactive data visualizations were created for the NYC Mayor’s Office to visualize data from their &lt;a href=&quot;http://www1.nyc.gov/site/hhsaccelerator/index.page&quot;&gt;HHS Accelerator&lt;/a&gt;. The visualizations were built using HTML/CSS, JavaScript, D3.js, and the JavaScript InfoVis Toolkit.&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;During my 2015 summer internship with the NYC Mayor’s Office, I worked to fulfill the design and data visualization needs in the Office of Operations, which is responsible for running and evaluating HHS Accelerator. HHS Accelerator is an online-system designed to improve the City’s contracting process by consolidating access to the city’s funding opportunities (across departments) and providing financial transaction capabilities.&lt;/p&gt;
-&lt;p&gt;My particular goal was to analyze three years-worth of data from HHS Accelerator and visualize it in a way that enabled internal staff to see the number of pre-qualified providers, RFPs, and groups funded in each service areas, as well as get broader sense of the usefulness of their existing taxonomy.&lt;/p&gt;
-&lt;h3 class=&quot;project-sub-main&quot;&gt;Process&lt;/h3&gt;
-
-&lt;p&gt;I started the process by reading existing documents about HHS Accelerator, exploring how I as a user might journey through its systems, and speaking with in-house designers, policy experts, engineers, and data scientists to understand the needs of the office and its constituents. I analyzed what data had been collected over the last three years since the program’s inception and became to sketch out what aspects might be most useful for the Office of Operations staff and some of major health and human services stakeholders who had helped shaped the initial platform.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;mayors_sketch.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;I created paper prototypes, which were shown to a small group of Operation Office stakeholders before quickly creating a version of the interactive visualizations on the web. This first digital prototype was presented in a larger meeting of stakeholders so that they could see how the data might be interacted with on the web and for them to provide input.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;mayors_main.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;mayors_other2.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Based on their feedback and the existing design guidelines for the Accelerator program, I created a new iteration of visualizations that were linked to real datasets, balancing my design and interaction sense with the expressed needs of my clients. This iteration of visualizations was presented to a working group that suggested final tweaks. My final deliverables included the code and documentation about how the data visualizations were structured and rendered.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;mayors_main2.gif&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>Between the Beats</title>
       <link>http://localhost:8080/articles/08-betweenthebeats/</link>
       <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
@@ -135,34 +21,6 @@
 &lt;p&gt;&lt;img src=&quot;btb_storyboard.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
 &lt;p&gt;The final motion graphics piece was done in After Effects and pushes the idea of music hidden under clothing and in the spaces in-between to highlight the unique, edgy and irreverent personality of this sexy music channel.&lt;/p&gt;
 &lt;p&gt;This piece was shown as part of a projection piece at the Parsons Fashion Gala (2016).&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Craigslist for Brokers</title>
-      <link>http://localhost:8080/articles/06-craigslistforbrokers/</link>
-      <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/06-craigslistforbrokers/</guid>
-      <author></author>
-      <description>&lt;p&gt;&lt;i&gt;Craigslist for Brokers&lt;/i&gt; is a design concept for creating a real estate broker’s companion application for rental postings on craigslist.&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;A complete competition analysis revealed that while there are companies out there with apps intended to help real estate brokers and their teams, ultimately many of these are hard to navigate, do not integrate with craigslist, and don’t directly address the new challenges of multi-channel communication with clients that brokers face today.&lt;/p&gt;
-&lt;p&gt;In order to figure out the core activities for a young, somewhat tech-savvy real estate broker in Manhattan, where high-demand neighborhoods may produce 1,000+ responses per day, I spoke with several brokers and mapped out the entire retail process from acquiring &amp;amp; negotiating details of service and posting an ad to scheduling, final logistics, and follow-up. From these I pulled out six core activities:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;craigslist_coreactivities.jpg&quot; class=&quot;materialboxed z-depth-1&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Because some of these are needs are fulfilled already by craigslist or other competitor apps, I pulled out managing customer communications as one place with potential for more innovation in order to improve organization of clients and speed of response.&lt;/p&gt;
-&lt;p&gt;Mapping out a broker’s possible journey through an app for specific tasks associated with client management showed me places where a user might want quick access to a specific client or property.&lt;/p&gt;
-&lt;div class=&quot;carousel carousel-slider&quot; data-indicators=&quot;true&quot;&gt;
-    &lt;a class=&quot;carousel-item&quot; href=&quot;#one!&quot;&gt;&lt;img src=&quot;craigslist_userjourney1.jpg&quot;&gt;&lt;/a&gt;
-    &lt;a class=&quot;carousel-item&quot; href=&quot;#two!&quot;&gt;&lt;img src=&quot;craigslist_userjourney2.jpg&quot;&gt;&lt;/a&gt;
-    &lt;a class=&quot;carousel-item&quot; href=&quot;#three!&quot;&gt;&lt;img src=&quot;craigslist_userjourney3.jpg&quot;&gt;&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;p&gt;After observing and speaking with several brokers, I also noted that part of their challenge was the multitude of ways that a client could communicate with them - even just keeping track of emails, texts, and automated messages from real estate online posting sites was difficult. Thus, having all communications from one client aggregrated and displayed together is more helpful than having to switch between different communication channels. To deal with the volume of responses that often required automated or similar responses, I incorporated some simple AI to determine when an automated script could be selected for a response, while still giving the broker the ability to customize the message if need be. Boiled down, these needs became some of the core features for my app design.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;craigslist_corefeatures.jpg&quot; class=&quot;materialboxed z-depth-1&quot;&gt;&lt;/p&gt;
-&lt;p&gt;In order to mockup the proposed application with these core features, I first sketched out general screen flows, created some quick digital wireframes, and designed the final user interface designs.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;craigslist_sketches.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;craigslist_wires.png&quot; class=&quot;materialboxed z-depth-1&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;craigslist_UI.jpg&quot; class=&quot;materialboxed z-depth-1&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;i&gt;Craigslist for Brokers&lt;/i&gt; was created in response to a design challenge for Moment Design.&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -264,6 +122,147 @@
 &lt;/div&gt;</description>
     </item>
     <item>
+      <title>NYC Data Visualized</title>
+      <link>http://localhost:8080/articles/04-nycmayorsoffice/</link>
+      <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/04-nycmayorsoffice/</guid>
+      <author></author>
+      <description>&lt;p&gt;These web-based, interactive data visualizations were created for the NYC Mayor’s Office to visualize data from their &lt;a href=&quot;http://www1.nyc.gov/site/hhsaccelerator/index.page&quot;&gt;HHS Accelerator&lt;/a&gt;. The visualizations were built using HTML/CSS, JavaScript, D3.js, and the JavaScript InfoVis Toolkit.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;During my 2015 summer internship with the NYC Mayor’s Office, I worked to fulfill the design and data visualization needs in the Office of Operations, which is responsible for running and evaluating HHS Accelerator. HHS Accelerator is an online-system designed to improve the City’s contracting process by consolidating access to the city’s funding opportunities (across departments) and providing financial transaction capabilities.&lt;/p&gt;
+&lt;p&gt;My particular goal was to analyze three years-worth of data from HHS Accelerator and visualize it in a way that enabled internal staff to see the number of pre-qualified providers, RFPs, and groups funded in each service areas, as well as get broader sense of the usefulness of their existing taxonomy.&lt;/p&gt;
+&lt;h3 class=&quot;project-sub-main&quot;&gt;Process&lt;/h3&gt;
+
+&lt;p&gt;I started the process by reading existing documents about HHS Accelerator, exploring how I as a user might journey through its systems, and speaking with in-house designers, policy experts, engineers, and data scientists to understand the needs of the office and its constituents. I analyzed what data had been collected over the last three years since the program’s inception and became to sketch out what aspects might be most useful for the Office of Operations staff and some of major health and human services stakeholders who had helped shaped the initial platform.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;mayors_sketch.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;I created paper prototypes, which were shown to a small group of Operation Office stakeholders before quickly creating a version of the interactive visualizations on the web. This first digital prototype was presented in a larger meeting of stakeholders so that they could see how the data might be interacted with on the web and for them to provide input.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;mayors_main.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;mayors_other2.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Based on their feedback and the existing design guidelines for the Accelerator program, I created a new iteration of visualizations that were linked to real datasets, balancing my design and interaction sense with the expressed needs of my clients. This iteration of visualizations was presented to a working group that suggested final tweaks. My final deliverables included the code and documentation about how the data visualizations were structured and rendered.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;mayors_main2.gif&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>LAMA</title>
+      <link>http://localhost:8080/articles/02-lama/</link>
+      <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/02-lama/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;i&gt;LAMA&lt;/i&gt; was developed for the Publicis Groupe “Retail Experience of the Future” NYC Media Lab Corporate Challenge.&lt;/p&gt;
+&lt;p&gt;The basic concept is an app that stores users’ shopping lists so that when they visit a big box store, the app can automatically route them on the most efficient path to shop for their items, dynamically changing their path as the customer adds items to their Smart Cart or list. Because items are being check off as they are added to the Smart Cart, users can checkout at any time using the app on their phone.&lt;/p&gt;
+&lt;p&gt;For flagship stores, navigation data could be reflected in a light installation on the ceiling of the store adding visual interest to an otherwise mundane shopping process. Retailers also benefit by being able to add location-/user-specific ads, receive the data from consumer product choices, and understand overall store traffic patterns.&lt;/p&gt;
+&lt;h2 class=&quot;project-sub&quot;&gt;Challenge&lt;/h2&gt;
+
+&lt;p&gt;E-commerce is draining sales from brick and mortar stores. It is convenient and helps consumers avoid the stress of navigating a store and the time suck of waiting in line for checkout. However, there are some definite reasons why customers still sometimes chose to shop in-store - the experience of browsing, the ability to see and touch physical products, and the necessity of acquiring a product immediately to name a few. Looking to the future of retail, how might the in-store shopping experience be improved by our learning from e-commerce platforms?&lt;/p&gt;
+&lt;h2 class=&quot;project-sub&quot;&gt;Goal&lt;/h2&gt;
+
+&lt;p&gt;Our goal was to form a coherent and innovative solution to the problems facing in-store retail and to pitch a concept that had been tested with users and proven from a technical perspective in a relatively quick timeframe. Our solution, LAMA, not only addresses the pain points for brick and mortar customer experience at a “big box store” by incorporating successful aspects of e-commerce platforms, but also incorporates features that provide additional value for the retailer.&lt;/p&gt;
+&lt;h3 class=&quot;project-sub-main&quot;&gt;Design Process&lt;/h3&gt;
+
+&lt;p&gt;Our process for developing LAMA involved four major stages: research and synthesis of existing trends and new technology, ideation, rapid prototyping, quick user testing in the physical space, and refining the concept and interactions.&lt;/p&gt;
+&lt;h2 class=&quot;project-sub&quot;&gt;Research&lt;/h2&gt;
+
+&lt;p&gt;Our team of three, guided by designer Bernardo Schorr (Smart Design), developed LAMA by first researching examples of innovative thinking in retail and interactive spaces. We synthesized over 40 examples to identify overarching trends and analyzed what about these were successful and why.&lt;/p&gt;
+&lt;h2 class=&quot;project-sub&quot;&gt;Digital Design&lt;/h2&gt;
+
+&lt;p&gt;Once we brainstormed a concept, I led the development of a holistic user journey through the physical and digital space and developed the pitch narrative. Working with another UX/UI designer, I created the final consumer-facing screen designs and made the interactive prototype in InVision.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;lama_UX.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;h2 class=&quot;project-sub&quot;&gt;User Testing&lt;/h2&gt;
+
+&lt;p&gt;Over a week’s time, the team conducted two rounds of in-depth user testing on-site at a “big box store” with four participants. In order to get a sense of the physical aspects of the concept, we used yarn to simulate the lighted path to items on the consumer’s list.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;lama_usertesting2.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;lama_usertesting1.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;lama_usertesting3.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;In parallel to our user testing and proving out the product concept, our software developer on the project built technical mockups to test the feasibility of multiple user pathways via a custom algorithm. The final concept was presented to executives and staff of Publicis Groupe subsidiaries.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;lama_presentation.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Banal Chaos</title>
+      <link>http://localhost:8080/articles/05-banalchaos/</link>
+      <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/05-banalchaos/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;i&gt;Banal Chaos&lt;/i&gt; is an interactive performance piece in which audience members sit as if they are in an NYC subway car and don headphones in order to listen in on the conversations and inner thoughts of strangers, while performers silently act out those strangers’ daily transit routines. &lt;span class=&quot;more&quot;&gt;&lt;/span&gt;The piece explores how a performance experience can be both shared and individual and how the use of game mechanics and audience choice can create a more immersive, interactive, and connected physical-digital experience.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;banalchaos_other3.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;h2 class=&quot;project-sub&quot;&gt;Challenge&lt;/h2&gt;
+
+&lt;p&gt;The prompt/problem for &lt;i&gt;Banal Chaos&lt;/i&gt; was more about methodology, process, and implementation than product, business, or user concerns. As a performance/installation piece conceptualized and actualized within a 24-hour period of time, the team was forced to explore differences of cross-discipline creative process, unknown variables regarding presentation, and diverse expectations about the final outcome.&lt;/p&gt;
+&lt;h2 class=&quot;project-sub&quot;&gt;Goal&lt;/h2&gt;
+
+&lt;p&gt;Our team’s goal was to create a performative response to the prompt, “banal chaos,” that was flexible enough to work for a single large group performance or groups filtering in and out of the performance space. We wanted to use tech in a way that was supported and reflected the underlying themes of the piece in an essential rather than auxiliary way.&lt;/p&gt;
+&lt;h3 class=&quot;project-sub-main&quot;&gt;Design Process&lt;/h3&gt;
+
+&lt;p&gt;I worked with a group of five to develop the concept and create basic user flow. The team, which was comprised of one film artist, an actor, a director, a playwright, and myself, had to make a concerted effort to develop a way of working together that took aspects of both design and theatre creative process. We learned quickly that individuals had very different views on process and product and that establishing a common ground of practice was essential to moving forward. We did quick individual brainstorming sessions and shared concepts with one another, building off of each other’s ideas and focusing on common themes.&lt;/p&gt;
+&lt;p&gt;We settled on developing a piece around conversations and sounds on the subway (which are banal amidst the chaos of public transportation in NYC). As the technical and interaction expert on the team, I suggested that we draw from shared experiences and common interactions on the subway.&lt;/p&gt;
+&lt;h2 class=&quot;project-sub&quot;&gt;Performance&lt;/h2&gt;
+
+&lt;p&gt;The final piece played with the everyday actions that we use in the subway - listening in on conversations, getting lost in internal thought, and putting on headphones - to explore and subvert those actions.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;banalchaos_other2.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;The audience brought their own mobile devices and headphones into the space and were invited to use them to access a web app through which they could listen to pre-recorded conversations and internal monologues from passengers. Audience members could choose “chaos” (to listen to all the conversations simultaneously) or to listen to one conversation at a time and switch between the characters; user choice was a crucial piece of the experience. The audio experience was grounded by subway sounds (recorded by one of my teammates) that played on speakers in the shared performance space.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;banalchaos_screen2.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Meanwhile, performers pantomimed the characters who are having the conversations/internal monologues. This created a situation in which audience members had to engage in order to connect what they were seeing with what they were listening to. In this way we created a piece that examines performance as a personalized experience and as a game (with audience members trying to guess which stranger’s conversation they were listening in on).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;banalchaos_other.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;h2 class=&quot;project-sub&quot;&gt;Technical Development&lt;/h2&gt;
+
+&lt;p&gt;With a quick turn-around time, I developed and deployed the mobile web app for the project. The app is built using HTML, CSS, javascript and contains pre-recorded audio components.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;banalchaos_screen3.JPG&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Craigslist for Brokers</title>
+      <link>http://localhost:8080/articles/06-craigslistforbrokers/</link>
+      <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/06-craigslistforbrokers/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;i&gt;Craigslist for Brokers&lt;/i&gt; is a design concept for creating a real estate broker’s companion application for rental postings on craigslist.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;A complete competition analysis revealed that while there are companies out there with apps intended to help real estate brokers and their teams, ultimately many of these are hard to navigate, do not integrate with craigslist, and don’t directly address the new challenges of multi-channel communication with clients that brokers face today.&lt;/p&gt;
+&lt;p&gt;In order to figure out the core activities for a young, somewhat tech-savvy real estate broker in Manhattan, where high-demand neighborhoods may produce 1,000+ responses per day, I spoke with several brokers and mapped out the entire retail process from acquiring &amp;amp; negotiating details of service and posting an ad to scheduling, final logistics, and follow-up. From these I pulled out six core activities:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;craigslist_coreactivities.jpg&quot; class=&quot;materialboxed z-depth-1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Because some of these are needs are fulfilled already by craigslist or other competitor apps, I pulled out managing customer communications as one place with potential for more innovation in order to improve organization of clients and speed of response.&lt;/p&gt;
+&lt;p&gt;Mapping out a broker’s possible journey through an app for specific tasks associated with client management showed me places where a user might want quick access to a specific client or property.&lt;/p&gt;
+&lt;div class=&quot;carousel carousel-slider&quot; data-indicators=&quot;true&quot;&gt;
+    &lt;a class=&quot;carousel-item&quot; href=&quot;#one!&quot;&gt;&lt;img src=&quot;craigslist_userjourney1.jpg&quot;&gt;&lt;/a&gt;
+    &lt;a class=&quot;carousel-item&quot; href=&quot;#two!&quot;&gt;&lt;img src=&quot;craigslist_userjourney2.jpg&quot;&gt;&lt;/a&gt;
+    &lt;a class=&quot;carousel-item&quot; href=&quot;#three!&quot;&gt;&lt;img src=&quot;craigslist_userjourney3.jpg&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;After observing and speaking with several brokers, I also noted that part of their challenge was the multitude of ways that a client could communicate with them - even just keeping track of emails, texts, and automated messages from real estate online posting sites was difficult. Thus, having all communications from one client aggregrated and displayed together is more helpful than having to switch between different communication channels. To deal with the volume of responses that often required automated or similar responses, I incorporated some simple AI to determine when an automated script could be selected for a response, while still giving the broker the ability to customize the message if need be. Boiled down, these needs became some of the core features for my app design.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;craigslist_corefeatures.jpg&quot; class=&quot;materialboxed z-depth-1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;In order to mockup the proposed application with these core features, I first sketched out general screen flows, created some quick digital wireframes, and designed the final user interface designs.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;craigslist_sketches.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;craigslist_wires.png&quot; class=&quot;materialboxed z-depth-1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;craigslist_UI.jpg&quot; class=&quot;materialboxed z-depth-1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Craigslist for Brokers&lt;/i&gt; was created in response to a design challenge for Moment Design.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>JOJO</title>
+      <link>http://localhost:8080/articles/03-jojo/</link>
+      <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/03-jojo/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;i&gt;JOJO&lt;/i&gt; is a chatbot system that handles questions/requests from customers and streamlines business communications and operations. It was built for a Fortune 500 telecommunications company.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;To comply with my non-disclosure agreement, I have omitted and obfuscated confidential information in this case study. The information in this case study is my own and does not necessarily reflect the views of my employer/client for this project.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h2 class=&quot;project-sub&quot;&gt;Challenge&lt;/h2&gt;
+
+&lt;p&gt;As with many big telecommunication companies, this one was just beginning to explore the wide variety of uses for artificial intelligence/machine learning and the ways that it might build on existing assets within their consumer-facing and enterprise business arms. While much of the engineering expertise already exists within this company’s ecosystem, part of the challenge of pursuing this emerging technology was crafting concrete use-cases that fit within the existing business goals and utilized the company’s competitive advantage.&lt;/p&gt;
+&lt;h2 class=&quot;project-sub&quot;&gt;Goal&lt;/h2&gt;
+
+&lt;p&gt;My team’s goal was to come up with and build working prototypes of chatbots that could provide new services and opportunities for the company and its customers/clients. &lt;i&gt;JOJO&lt;/i&gt; is a chatbot system that handles questions/requests from customers and streamlines business communications and operations. The system is built in a modular way, so that the four major components - conversational UI, artificial intelligence, operations dashboard, and analytics - can be pulled out and rearranged for applicability across multiple industries and for many different use-cases.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;jojo_main.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Focusing on the company’s existing industry connections, we developed JOJO as part of a complete system for the hospitality industry that would augment existing hardware/network sales. In the next few months, the system may be incorporated into a small geo-fenced ad campaign for the company’s retail branch, as a way to provide a more active way of getting new customers into nearby Verizon stores. Throughout the development process we sought to tie the bot to the company’s existing portfolio of work and continue to build support for the project internally.&lt;/p&gt;
+&lt;h3 class=&quot;project-sub-main&quot;&gt;Product Design Process&lt;/h3&gt;
+
+&lt;p&gt;The product development process incorporated industry and customer research (interviews, observation, and market research surveys), outlining specific use-cases, mapping out the conversation and user experience flows, researching and architecting the technical system, coding and training the scripts for the bot intent recognition and responses, and getting internal buy-in.&lt;/p&gt;
+&lt;h2 class=&quot;project-sub&quot;&gt;My Role&lt;/h2&gt;
+
+&lt;p&gt;My contribution to the project included a mix of UX design, technical prototyping, and product positioning. I led much of the service design work - creating service blueprints, sequence diagrams, annotated wireframes - as well as the content strategy - crafting dialog trees and structuring the intents and entities in the bot framework. I collaborated with another designer on the visual design of the user interfaces, which included the mobile conversational UI plus a mission control dashboard and an analytics page (for the hospitality vertical). On the technical side, I did a lot of the bot scripting (coding the conversation waterfall and specific bot responses) and training, as well as provided engineering support on the web application front end.&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>in a word</title>
       <link>http://localhost:8080/articles/09-inaword/</link>
       <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
@@ -307,6 +306,20 @@
 </description>
     </item>
     <item>
+      <title>Wag It</title>
+      <link>http://localhost:8080/articles/10-wagit/</link>
+      <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/10-wagit/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;i&gt;Wag It&lt;/i&gt; is a virtual reality game in which one plays a dog searching for love and attention by wagging her tail (i.e., shaking her butt). A player dons an Oculus Rift and uses a mobile device placed in her back pocket to measure wagging motion.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;wagit_other2.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;For inspiration, I drew from current critiques of VR, using the player’s blindness/isolation in the headset as a way to provide entertainment not only for the primary user but also those around her. A related impetus for this project was the challenge of creating a scenario in which a person would willingly act a little bit ridiculous.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;wagit_other.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Wag It&lt;/i&gt; is built in Unity 5 and the game environment is connected to a web endpoint in order to continuously pull a mobile device’s accelerometer data. The endpoint was built using JavaScript and node.js.&lt;/p&gt;
+&lt;p&gt;This game was developed as part of the 2016 Intel Kill Screen Scholars program.&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Room 1206</title>
       <link>http://localhost:8080/articles/11-room1206/</link>
       <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
@@ -330,20 +343,6 @@
 &lt;div class=&quot;video-container&quot;&gt;
 &lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/86cJoypqFew&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
-</description>
-    </item>
-    <item>
-      <title>Wag It</title>
-      <link>http://localhost:8080/articles/10-wagit/</link>
-      <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/10-wagit/</guid>
-      <author></author>
-      <description>&lt;p&gt;&lt;i&gt;Wag It&lt;/i&gt; is a virtual reality game in which one plays a dog searching for love and attention by wagging her tail (i.e., shaking her butt). A player dons an Oculus Rift and uses a mobile device placed in her back pocket to measure wagging motion.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;wagit_other2.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;For inspiration, I drew from current critiques of VR, using the player’s blindness/isolation in the headset as a way to provide entertainment not only for the primary user but also those around her. A related impetus for this project was the challenge of creating a scenario in which a person would willingly act a little bit ridiculous.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;wagit_other.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;i&gt;Wag It&lt;/i&gt; is built in Unity 5 and the game environment is connected to a web endpoint in order to continuously pull a mobile device’s accelerometer data. The endpoint was built using JavaScript and node.js.&lt;/p&gt;
-&lt;p&gt;This game was developed as part of the 2016 Intel Kill Screen Scholars program.&lt;/p&gt;
 </description>
     </item>
     <item>

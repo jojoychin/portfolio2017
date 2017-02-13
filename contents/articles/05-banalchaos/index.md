@@ -12,7 +12,6 @@ roles: interaction designer<br>web developer<br>actor
 collaborators: Karina Amalia<br>Will Donovan<br>Aarti Ruparell<br>Diana Salcedo
 timeframe: January 2015 (24 hours)
 mainImage: banalchaos_main.gif
-featured: true
 
 ---
 

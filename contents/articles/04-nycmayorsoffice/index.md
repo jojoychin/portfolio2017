@@ -8,7 +8,7 @@ tag1: interactive data
 tag2: visualizations for the
 tag3: NYC Mayor's Office
 client: NYC Mayor's Office of Operations
-type: data visualization<br>interactive web
+type: interactive web<br>data visualizations
 roles: interaction designer<br>front-end web dev
 timeframe: July 2015 - October 2015
 mainImage: mayors_main.gif
@@ -20,7 +20,7 @@ These web-based, interactive data visualizations were created for the NYC Mayor'
 
 During my 2015 summer internship with the NYC Mayor’s Office, I worked to fulfill the design and data visualization needs in the Office of Operations, which is responsible for running and evaluating HHS Accelerator. HHS Accelerator is an online-system designed to improve the City's contracting process by consolidating access to the city's funding opportunities (across departments) and providing financial transaction capabilities.
 
-My particular goal was to analyze three years-worth of data from HHS Accelerator and visualize it in a way that could be used for internal staff to see the number of pre-qualified providers, RFPs, and groups funded in each service areas, as well as get broader sense of the usefulness of their existing taxonomy.
+My particular goal was to analyze three years-worth of data from HHS Accelerator and visualize it in a way that enabled internal staff to see the number of pre-qualified providers, RFPs, and groups funded in each service areas, as well as get broader sense of the usefulness of their existing taxonomy.
 
 <h3 class="project-sub-main">Process</h3>
 

@@ -10,12 +10,12 @@ excerpt: An interactive performance piece exploring banal chaos on the subway
 type: interactive performance<br>environmental/sound piece<br>mobile web
 roles: interaction designer<br>web developer<br>actor
 collaborators: Karina Amalia<br>Will Donovan<br>Aarti Ruparell<br>Diana Salcedo
-timeframe: 24 hours
+timeframe: January 2015 (24 hours)
 mainImage: banalchaos_main.gif
 
 ---
 
-<i>Banal Chaos</i> is an interactive performance piece in which the audience is invited to sit in chairs arranged like a NYC subway car and don headphones to listen in on the inner thoughts of strangers via a mobile web app. Performers silently embody the strangers going about their daily transit routine creating both a shared and individual performance experience and pseudo-game.
+<i>Banal Chaos</i> is an interactive performance piece in which the audience is invited to sit in chairs arranged like a NYC subway car and don headphones to listen in on the conversations/inner thoughts of strangers via a mobile web app. Performers silently embody the strangers going about their daily transit routine creating both a shared and individual performance experience and pseudo-game.
 
 <span class="more"></span>
 
@@ -31,7 +31,7 @@ Our team's goal was to create a performative response to the prompt, "banal chao
 
 <h3 class="project-sub-main">Design Process</h3>
 
-I worked with a group of five to develop the concept and create basic user flow. The team, which was comprised of one film artist, an actor, a director, a playwright, and myself, had to work to develop a way of working together that took aspects of both design and theatre creative process. We learned quickly that individuals had very different views on process and product and that establishing a common ground of practice was essential to moving forward. We did quick individual brainstorming sessions and shared concepts with one another, building off of each other's ideas and focusing on common themes.
+I worked with a group of five to develop the concept and create basic user flow. The team, which was comprised of one film artist, an actor, a director, a playwright, and myself, had to make a concerted effort to develop a way of working together that took aspects of both design and theatre creative process. We learned quickly that individuals had very different views on process and product and that establishing a common ground of practice was essential to moving forward. We did quick individual brainstorming sessions and shared concepts with one another, building off of each other's ideas and focusing on common themes.
 
 We settled on developing a piece around conversations and sounds on the subway (which are banal amidst the chaos of public transportation in NYC). As the technical and interaction expert on the team, I suggested that we draw from shared experiences and common interactions on the subway.
 
@@ -51,6 +51,6 @@ Meanwhile, performers pantomimed the characters who are having the conversations
 
 <h2 class="project-sub">Technical Development</h2>
 
-With a quick turn-around time, I developed and deployed the mobile web app for the project. The app is built using HTML, CSS, javascript and contains audio components.
+With a quick turn-around time, I developed and deployed the mobile web app for the project. The app is built using HTML, CSS, javascript and contains pre-recorded audio components.
 
 <img src="banalchaos_screen3.JPG" class="materialboxed">

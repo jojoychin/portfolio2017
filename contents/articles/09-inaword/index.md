@@ -9,12 +9,14 @@ tag3: in a word
 excerpt: Opening credits for a performance of <i>in a word</i>
 type: chatbot<br>critical design
 roles: interaction designer<br>content strategist<br>web developer
-timeframe: 12 hours
+timeframe: April 2016 (1 week)
 video: //www.youtube.com/embed/W4-9qde0eG0
 
 ---
 
-Brief opening credits for the play, <i>in a word</i> (by Lauren Yee) directed and performed by students in The New School drama department. Animations were hand-drawn and the motion design was done in After Effects.<span class="more"></span>
+Brief opening credits for the play, <i>in a word</i> (by Lauren Yee) directed and performed by students in The New School drama department. Animations were hand-drawn and the motion design was done in After Effects.
+
+<span class="more"></span>
 
 <img src="inaword_other.png" class="materialboxed">
 

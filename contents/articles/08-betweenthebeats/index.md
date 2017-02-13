@@ -8,7 +8,7 @@ tag2: fictional music channel
 excerpt: Ident for a fictional music channel
 type: motion design piece for fictional music channel
 roles: visual/motion designer
-timeframe: 2 weeks
+timeframe: May 2016 (2 weeks)
 <!-- mainImage: d.bot_main.gif -->
 video: //www.youtube.com/embed/ZG1U8v_2PVE
 
@@ -24,6 +24,6 @@ After deciding on an aesthetic direction based on user testing the readability o
 
 <img src="btb_storyboard.jpg" class="materialboxed">
 
-The final motion graphics piece was done in After Effects and pushes the idea of music hidden under clothing and in the spaces in between to highlight the unique edgy and irreverent personality of this sexy music channel.
+The final motion graphics piece was done in After Effects and pushes the idea of music hidden under clothing and in the spaces in-between to highlight the unique, edgy and irreverent personality of this sexy music channel.
 
 This piece was shown as part of a projection piece at the Parsons Fashion Gala (2016).

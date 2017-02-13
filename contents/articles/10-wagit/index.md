@@ -9,8 +9,7 @@ tag3: wagging your tail
 excerpt: VR game about being a dog and wagging your tail to get attention
 type: VR game with physical interaction via mobile controller
 roles: interaction/game designer<br>game developer
-timeframe: 3 months
-<!-- mainImage: d.bot_main.gif -->
+timeframe: May 2016 - July 2016 (3 months)
 video: //www.youtube.com/embed/AFZXtv0l-xY
 
 ---
@@ -19,7 +18,7 @@ video: //www.youtube.com/embed/AFZXtv0l-xY
 
 <img src="wagit_other2.jpg" class="materialboxed">
 
-For inspiration, I drew from current critiques of VR, using the player's blindness/isolation in the headset as a way to provide entertainment not only for the primary user but also those around her. A related impetus for this project was the challenge of creating a scenario in which a person would willingly act a little ridiculous.
+For inspiration, I drew from current critiques of VR, using the player's blindness/isolation in the headset as a way to provide entertainment not only for the primary user but also those around her. A related impetus for this project was the challenge of creating a scenario in which a person would willingly act a little bit ridiculous.
 
 <img src="wagit_other.jpg" class="materialboxed">
 

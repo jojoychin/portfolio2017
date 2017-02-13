@@ -9,18 +9,34 @@
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
-      <title>Between the Beats</title>
-      <link>http://localhost:8080/articles/08-betweenthebeats/</link>
+      <title>d.bot</title>
+      <link>http://localhost:8080/articles/07-dbot/</link>
       <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/08-betweenthebeats/</guid>
+      <guid isPermaLink="true">http://localhost:8080/articles/07-dbot/</guid>
       <author></author>
-      <description>&lt;p&gt;&lt;i&gt;Between the Beats&lt;/i&gt; is a short motion graphics piece created for a fictional music channel that delivers “music to get you in the mood.”&lt;/p&gt;
-&lt;p&gt;Starting with style frames, I established three distinct visual styles and vocabulary.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;btb_other.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;After deciding on an aesthetic direction based on user testing the readability of each of these designs, I created a storyboard to articulate and flesh out the visual style and start to encapsulate the motion and transition design as well. I drew from Blue Note records cover art as one major source of inspiration.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;btb_storyboard.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;The final motion graphics piece was done in After Effects and pushes the idea of music hidden under clothing and in the spaces in-between to highlight the unique, edgy and irreverent personality of this sexy music channel.&lt;/p&gt;
-&lt;p&gt;This piece was shown as part of a projection piece at the Parsons Fashion Gala (2016).&lt;/p&gt;
+      <description>&lt;p&gt;&lt;i&gt;D.bot&lt;/i&gt; is a chatbot that draws from female experiences in dating to simulates conversing with an unenlightened male. The project is intended to address, in a light-hearted and humorous way, the pervasiveness of gender stereotypes and the ease with which disrespectful or patronizing comments find their way into everyday conversation. It was featured in &lt;i&gt;The Guardian&lt;/i&gt;, &lt;i&gt;Mashable&lt;/i&gt;, &lt;i&gt;Refinery29&lt;/i&gt;, &lt;i&gt;MTV News&lt;/i&gt;, and other feminist and/or tech blogs.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h2 class=&quot;project-sub&quot;&gt;Challenge&lt;/h2&gt;
+
+&lt;p&gt;Women are harassed both in real life and online. We know this is a problem, but it was particularly evident when we were creating &lt;i&gt;d.bot&lt;/i&gt; because of the numerous articles on street harassment published around that time and because a feminist dating site, Bumble, had just come onto the scene. Bumble sought to break traditional gender roles (of who pursues who) and create a “safer” space based on “online accountability and kindness.” The traction it has gained since then seems to indicate the continuing desire for new solutions to the problem of harassment based on gender.&lt;/p&gt;
+&lt;p&gt;Rather than focus on lack of safe space, we saw one of the big challenges of gender-based harassment as understanding the relationship between the benign, well-intentioned gendered comments that many men make and the extremely chauvinistic and recognizably egregious ones. There is no easy way to say to a male colleague or friend that their casual sexist comments and actions are still perpetuating a culture that enables even more aggressively sexist and chauvanistic responses and behavior.&lt;/p&gt;
+&lt;h2 class=&quot;project-sub&quot;&gt;Goal&lt;/h2&gt;
+
+&lt;p&gt;From an interaction standpoint, the goal with d.bot was to create an experience in which the user continues to engage with something despite not wanting to. From a social change standpoint, we were interested in a creating a bot that was both comedic in its responses, but also ran the gamut of sexist and racist comments from more benign to outrageously insulting.&lt;/p&gt;
+&lt;p&gt;The final bot draws from a database of responses derived from women’s actual interactions in online and offline dating. Users are encouraged to add their own experiences to the bot’s AI, so that it can continue to reflect the latest in insensitive and ridiculously sexist comments.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;d.bot_other1.jpg&quot; class=&quot;materialboxed z-depth-1&quot;&gt;&lt;/p&gt;
+&lt;h2 class=&quot;project-sub&quot;&gt;Learning&lt;/h2&gt;
+
+&lt;p&gt;In addition to the technical learning of how to make a simple chatbot from scratch, &lt;i&gt;d.bot&lt;/i&gt; was a fascinating exploration into some major aspects of how interaction design can be used to craft better, more intuitive artificial intelligence experiences.&lt;/p&gt;
+&lt;blockquote&gt;“I knew it was a bot, and it still made me so mad!”
+&lt;br&gt;-comment from anonymous user&lt;/blockquote&gt;
+
+&lt;p&gt;The bot was built using “simple AI” (i.e., exact responses for specific trigger words rather than using algorithms to determine natural language patterns and learn from them). However, &lt;i&gt;d.bot&lt;/i&gt; was a successful interactive experience because we used the context of the bot and users’ conversations to our advantage.&lt;/p&gt;
+&lt;p&gt;Because he is positioned as a “douche bot,” the user immediately excuses slightly off responses because, like a real jerk, he’s not actually listening to you most of the time. Second, the content of the chat is similar to what you might experience on an online dating site, so it provides some context and direction for the conversation, because we know what kind of topics are discussed when you are trying to suss out another person’s personality and intent.&lt;/p&gt;
+&lt;p&gt;While creating &lt;i&gt;d.bot&lt;/i&gt; we were also really interested in the premise of the Turing Test, which is the measuring stick by which people qualify the humanness of a machine. It seems that the test assumes that best of what humanity is (reasoned and knowledgable), rather than our faults, which often make us unresponsive, rude, and illogical. &lt;i&gt;D.bot&lt;/i&gt;, like Microsoft’s infamous racist twitter bot, poses that these flaws actually make the bot experience more human.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;d.bot_other2.jpg&quot; class=&quot;materialboxed z-depth-1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Based on feedback from early users, we modified &lt;i&gt;d.bot&lt;/i&gt; to include responses to users’ actions as well as the content of their responses. For example, in the latest iteration, the bot will comment if a user takes too long to respond (e.g., “Are you ghosting me?”) and also has some special responses if a user is too curt (repeated short responses) or too verbose (words larger than eight characters).&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;D.bot&lt;/i&gt; was created in collaboration with Bryan Collinsworth. I took the lead on the experience design, web development, and content curation. The bot was built using HTML/CSS, JavaScript, node.js, socket.io, and a Parse database.&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -122,27 +138,6 @@
 &lt;/div&gt;</description>
     </item>
     <item>
-      <title>NYC Data Visualized</title>
-      <link>http://localhost:8080/articles/04-nycmayorsoffice/</link>
-      <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/04-nycmayorsoffice/</guid>
-      <author></author>
-      <description>&lt;p&gt;These web-based, interactive data visualizations were created for the NYC Mayor’s Office to visualize data from their &lt;a href=&quot;http://www1.nyc.gov/site/hhsaccelerator/index.page&quot;&gt;HHS Accelerator&lt;/a&gt;. The visualizations were built using HTML/CSS, JavaScript, D3.js, and the JavaScript InfoVis Toolkit.&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;During my 2015 summer internship with the NYC Mayor’s Office, I worked to fulfill the design and data visualization needs in the Office of Operations, which is responsible for running and evaluating HHS Accelerator. HHS Accelerator is an online-system designed to improve the City’s contracting process by consolidating access to the city’s funding opportunities (across departments) and providing financial transaction capabilities.&lt;/p&gt;
-&lt;p&gt;My particular goal was to analyze three years-worth of data from HHS Accelerator and visualize it in a way that enabled internal staff to see the number of pre-qualified providers, RFPs, and groups funded in each service areas, as well as get broader sense of the usefulness of their existing taxonomy.&lt;/p&gt;
-&lt;h3 class=&quot;project-sub-main&quot;&gt;Process&lt;/h3&gt;
-
-&lt;p&gt;I started the process by reading existing documents about HHS Accelerator, exploring how I as a user might journey through its systems, and speaking with in-house designers, policy experts, engineers, and data scientists to understand the needs of the office and its constituents. I analyzed what data had been collected over the last three years since the program’s inception and became to sketch out what aspects might be most useful for the Office of Operations staff and some of major health and human services stakeholders who had helped shaped the initial platform.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;mayors_sketch.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;I created paper prototypes, which were shown to a small group of Operation Office stakeholders before quickly creating a version of the interactive visualizations on the web. This first digital prototype was presented in a larger meeting of stakeholders so that they could see how the data might be interacted with on the web and for them to provide input.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;mayors_main.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;mayors_other2.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Based on their feedback and the existing design guidelines for the Accelerator program, I created a new iteration of visualizations that were linked to real datasets, balancing my design and interaction sense with the expressed needs of my clients. This iteration of visualizations was presented to a working group that suggested final tweaks. My final deliverables included the code and documentation about how the data visualizations were structured and rendered.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;mayors_main2.gif&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>LAMA</title>
       <link>http://localhost:8080/articles/02-lama/</link>
       <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
@@ -175,6 +170,27 @@
 &lt;p&gt;&lt;img src=&quot;lama_usertesting3.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
 &lt;p&gt;In parallel to our user testing and proving out the product concept, our software developer on the project built technical mockups to test the feasibility of multiple user pathways via a custom algorithm. The final concept was presented to executives and staff of Publicis Groupe subsidiaries.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;lama_presentation.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>NYC Data Visualized</title>
+      <link>http://localhost:8080/articles/04-nycmayorsoffice/</link>
+      <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/04-nycmayorsoffice/</guid>
+      <author></author>
+      <description>&lt;p&gt;These web-based, interactive data visualizations were created for the NYC Mayor’s Office to visualize data from their &lt;a href=&quot;http://www1.nyc.gov/site/hhsaccelerator/index.page&quot;&gt;HHS Accelerator&lt;/a&gt;. The visualizations were built using HTML/CSS, JavaScript, D3.js, and the JavaScript InfoVis Toolkit.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;During my 2015 summer internship with the NYC Mayor’s Office, I worked to fulfill the design and data visualization needs in the Office of Operations, which is responsible for running and evaluating HHS Accelerator. HHS Accelerator is an online-system designed to improve the City’s contracting process by consolidating access to the city’s funding opportunities (across departments) and providing financial transaction capabilities.&lt;/p&gt;
+&lt;p&gt;My particular goal was to analyze three years-worth of data from HHS Accelerator and visualize it in a way that enabled internal staff to see the number of pre-qualified providers, RFPs, and groups funded in each service areas, as well as get broader sense of the usefulness of their existing taxonomy.&lt;/p&gt;
+&lt;h3 class=&quot;project-sub-main&quot;&gt;Process&lt;/h3&gt;
+
+&lt;p&gt;I started the process by reading existing documents about HHS Accelerator, exploring how I as a user might journey through its systems, and speaking with in-house designers, policy experts, engineers, and data scientists to understand the needs of the office and its constituents. I analyzed what data had been collected over the last three years since the program’s inception and became to sketch out what aspects might be most useful for the Office of Operations staff and some of major health and human services stakeholders who had helped shaped the initial platform.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;mayors_sketch.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;I created paper prototypes, which were shown to a small group of Operation Office stakeholders before quickly creating a version of the interactive visualizations on the web. This first digital prototype was presented in a larger meeting of stakeholders so that they could see how the data might be interacted with on the web and for them to provide input.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;mayors_main.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;mayors_other2.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Based on their feedback and the existing design guidelines for the Accelerator program, I created a new iteration of visualizations that were linked to real datasets, balancing my design and interaction sense with the expressed needs of my clients. This iteration of visualizations was presented to a working group that suggested final tweaks. My final deliverables included the code and documentation about how the data visualizations were structured and rendered.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;mayors_main2.gif&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -263,6 +279,21 @@
 </description>
     </item>
     <item>
+      <title>Between the Beats</title>
+      <link>http://localhost:8080/articles/08-betweenthebeats/</link>
+      <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/08-betweenthebeats/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;i&gt;Between the Beats&lt;/i&gt; is a short motion graphics piece created for a fictional music channel that delivers “music to get you in the mood.”&lt;/p&gt;
+&lt;p&gt;Starting with style frames, I established three distinct visual styles and vocabulary.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;btb_other.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;After deciding on an aesthetic direction based on user testing the readability of each of these designs, I created a storyboard to articulate and flesh out the visual style and start to encapsulate the motion and transition design as well. I drew from Blue Note records cover art as one major source of inspiration.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;btb_storyboard.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;The final motion graphics piece was done in After Effects and pushes the idea of music hidden under clothing and in the spaces in-between to highlight the unique, edgy and irreverent personality of this sexy music channel.&lt;/p&gt;
+&lt;p&gt;This piece was shown as part of a projection piece at the Parsons Fashion Gala (2016).&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>in a word</title>
       <link>http://localhost:8080/articles/09-inaword/</link>
       <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
@@ -272,37 +303,6 @@
 &lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;inaword_other.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;inaword_other2.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>d.bot</title>
-      <link>http://localhost:8080/articles/07-dbot/</link>
-      <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/07-dbot/</guid>
-      <author></author>
-      <description>&lt;p&gt;&lt;i&gt;D.bot&lt;/i&gt; is a chatbot that draws from female experiences in dating to simulates conversing with an unenlightened male. The project is intended to address, in a light-hearted and humorous way, the pervasiveness of gender stereotypes and the ease with which disrespectful or patronizing comments find their way into everyday conversation. It was featured in &lt;i&gt;The Guardian&lt;/i&gt;, &lt;i&gt;Mashable&lt;/i&gt;, &lt;i&gt;Refinery29&lt;/i&gt;, &lt;i&gt;MTV News&lt;/i&gt;, and other feminist and/or tech blogs.&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;h2 class=&quot;project-sub&quot;&gt;Challenge&lt;/h2&gt;
-
-&lt;p&gt;Women are harassed both in real life and online. We know this is a problem, but it was particularly evident when we were creating &lt;i&gt;d.bot&lt;/i&gt; because of the numerous articles on street harassment published around that time and because a feminist dating site, Bumble, had just come onto the scene. Bumble sought to break traditional gender roles (of who pursues who) and create a “safer” space based on “online accountability and kindness.” The traction it has gained since then seems to indicate the continuing desire for new solutions to the problem of harassment based on gender.&lt;/p&gt;
-&lt;p&gt;Rather than focus on lack of safe space, we saw one of the big challenges of gender-based harassment as understanding the relationship between the benign, well-intentioned gendered comments that many men make and the extremely chauvinistic and recognizably egregious ones. There is no easy way to say to a male colleague or friend that their casual sexist comments and actions are still perpetuating a culture that enables even more aggressively sexist and chauvanistic responses and behavior.&lt;/p&gt;
-&lt;h2 class=&quot;project-sub&quot;&gt;Goal&lt;/h2&gt;
-
-&lt;p&gt;From an interaction standpoint, the goal with d.bot was to create an experience in which the user continues to engage with something despite not wanting to. From a social change standpoint, we were interested in a creating a bot that was both comedic in its responses, but also ran the gamut of sexist and racist comments from more benign to outrageously insulting.&lt;/p&gt;
-&lt;p&gt;The final bot draws from a database of responses derived from women’s actual interactions in online and offline dating. Users are encouraged to add their own experiences to the bot’s AI, so that it can continue to reflect the latest in insensitive and ridiculously sexist comments.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;d.bot_other1.jpg&quot; class=&quot;materialboxed z-depth-1&quot;&gt;&lt;/p&gt;
-&lt;h2 class=&quot;project-sub&quot;&gt;Learning&lt;/h2&gt;
-
-&lt;p&gt;In addition to the technical learning of how to make a simple chatbot from scratch, &lt;i&gt;d.bot&lt;/i&gt; was a fascinating exploration into some major aspects of how interaction design can be used to craft better, more intuitive artificial intelligence experiences.&lt;/p&gt;
-&lt;blockquote&gt;“I knew it was a bot, and it still made me so mad!”
-&lt;br&gt;-comment from anonymous user&lt;/blockquote&gt;
-
-&lt;p&gt;The bot was built using “simple AI” (i.e., exact responses for specific trigger words rather than using algorithms to determine natural language patterns and learn from them). However, &lt;i&gt;d.bot&lt;/i&gt; was a successful interactive experience because we used the context of the bot and users’ conversations to our advantage.&lt;/p&gt;
-&lt;p&gt;Because he is positioned as a “douche bot,” the user immediately excuses slightly off responses because, like a real jerk, he’s not actually listening to you most of the time. Second, the content of the chat is similar to what you might experience on an online dating site, so it provides some context and direction for the conversation, because we know what kind of topics are discussed when you are trying to suss out another person’s personality and intent.&lt;/p&gt;
-&lt;p&gt;While creating &lt;i&gt;d.bot&lt;/i&gt; we were also really interested in the premise of the Turing Test, which is the measuring stick by which people qualify the humanness of a machine. It seems that the test assumes that best of what humanity is (reasoned and knowledgable), rather than our faults, which often make us unresponsive, rude, and illogical. &lt;i&gt;D.bot&lt;/i&gt;, like Microsoft’s infamous racist twitter bot, poses that these flaws actually make the bot experience more human.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;d.bot_other2.jpg&quot; class=&quot;materialboxed z-depth-1&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Based on feedback from early users, we modified &lt;i&gt;d.bot&lt;/i&gt; to include responses to users’ actions as well as the content of their responses. For example, in the latest iteration, the bot will comment if a user takes too long to respond (e.g., “Are you ghosting me?”) and also has some special responses if a user is too curt (repeated short responses) or too verbose (words larger than eight characters).&lt;/p&gt;
-&lt;p&gt;&lt;i&gt;D.bot&lt;/i&gt; was created in collaboration with Bryan Collinsworth. I took the lead on the experience design, web development, and content curation. The bot was built using HTML/CSS, JavaScript, node.js, socket.io, and a Parse database.&lt;/p&gt;
 </description>
     </item>
     <item>

@@ -6,7 +6,7 @@ template: article.jade
 tag1: interactive performance
 tag2: listening in on
 tag3: conversations on the subway
-excerpt: An interactive performance piece exploring banal chaos on the subway
+excerpt: An interactive performance piece embracing banal routines and chaotic sounds on the subway
 type: interactive performance<br>environmental/sound piece<br>with mobile web app
 roles: interaction designer<br>web developer<br>actor
 collaborators: Karina Amalia<br>Will Donovan<br>Aarti Ruparell<br>Diana Salcedo
@@ -16,9 +16,7 @@ featured: true
 
 ---
 
-<i>Banal Chaos</i> is an interactive, shared and individual performance piece and pseudo-game in which audience members don headphones and listen in on the conversations/inner thoughts of strangers on the subway while performers silently act out their daily transit routine.
-
-<span class="more"></span>
+<i>Banal Chaos</i> is an interactive performance piece in which audience members sit as if they are in an NYC subway car and don headphones in order to listen in on the conversations and inner thoughts of strangers, while performers silently act out those strangers' daily transit routines. <span class="more"></span>The piece explores how a performance experience can be both shared and individual and how the use of game mechanics and audience choice can create a more immersive, interactive, and connected physical-digital experience.
 
 <img src="banalchaos_other3.png" class="materialboxed">
 

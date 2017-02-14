@@ -5,7 +5,7 @@ date: 2012-10-01 15:00
 template: article.jade
 tag1: interactive performance
 tag2: listening in on
-tag3: conversations on the subway
+tag3: subway conversations
 excerpt: An interactive performance piece embracing banal routines and chaotic sounds on the subway
 type: interactive performance<br>environmental/sound piece<br>with mobile web app
 roles: interaction designer<br>web developer<br>actor

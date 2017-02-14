@@ -9,15 +9,18 @@
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
-      <title>in a word</title>
-      <link>http://localhost:8080/articles/09-inaword/</link>
+      <title>Between the Beats</title>
+      <link>http://localhost:8080/articles/08-betweenthebeats/</link>
       <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/09-inaword/</guid>
+      <guid isPermaLink="true">http://localhost:8080/articles/08-betweenthebeats/</guid>
       <author></author>
-      <description>&lt;p&gt;Brief opening credits for the play, &lt;i&gt;in a word&lt;/i&gt; (by Lauren Yee) directed and performed by students in The New School drama department. Animations were hand-drawn and the motion design was done in After Effects.&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;inaword_other.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;inaword_other2.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;i&gt;Between the Beats&lt;/i&gt; is a short motion graphics piece created for a fictional music channel that delivers “music to get you in the mood.”&lt;/p&gt;
+&lt;p&gt;Starting with style frames, I established three distinct visual styles and vocabulary.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;btb_other.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;After deciding on an aesthetic direction based on user testing the readability of each of these designs, I created a storyboard to articulate and flesh out the visual style and start to encapsulate the motion and transition design as well. I drew from Blue Note records cover art as one major source of inspiration.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;btb_storyboard.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;The final motion graphics piece was done in After Effects and pushes the idea of music hidden under clothing and in the spaces in-between to highlight the unique, edgy and irreverent personality of this sexy music channel.&lt;/p&gt;
+&lt;p&gt;This piece was shown as part of a projection piece at the Parsons Fashion Gala (2016).&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -53,38 +56,6 @@
 &lt;p&gt;&lt;img src=&quot;lama_usertesting3.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
 &lt;p&gt;In parallel to our user testing and proving out the product concept, our software developer on the project built technical mockups to test the feasibility of multiple user pathways via a custom algorithm. The final concept was presented to executives and staff of Publicis Groupe subsidiaries.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;lama_presentation.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Banal Chaos</title>
-      <link>http://localhost:8080/articles/05-banalchaos/</link>
-      <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/05-banalchaos/</guid>
-      <author></author>
-      <description>&lt;p&gt;&lt;i&gt;Banal Chaos&lt;/i&gt; is an interactive performance piece in which audience members sit as if they are in an NYC subway car and don headphones in order to listen in on the conversations and inner thoughts of strangers, while performers silently act out those strangers’ daily transit routines. &lt;span class=&quot;more&quot;&gt;&lt;/span&gt;The piece explores how a performance experience can be both shared and individual and how the use of game mechanics and audience choice can create a more immersive, interactive, and connected physical-digital experience.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;banalchaos_other3.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;h2 class=&quot;project-sub&quot;&gt;Challenge&lt;/h2&gt;
-
-&lt;p&gt;The prompt/problem for &lt;i&gt;Banal Chaos&lt;/i&gt; was more about methodology, process, and implementation than product, business, or user concerns. As a performance/installation piece conceptualized and actualized within a 24-hour period of time, the team was forced to explore differences of cross-discipline creative process, unknown variables regarding presentation, and diverse expectations about the final outcome.&lt;/p&gt;
-&lt;h2 class=&quot;project-sub&quot;&gt;Goal&lt;/h2&gt;
-
-&lt;p&gt;Our team’s goal was to create a performative response to the prompt, “banal chaos,” that was flexible enough to work for a single large group performance or groups filtering in and out of the performance space. We wanted to use tech in a way that was supported and reflected the underlying themes of the piece in an essential rather than auxiliary way.&lt;/p&gt;
-&lt;h3 class=&quot;project-sub-main&quot;&gt;Design Process&lt;/h3&gt;
-
-&lt;p&gt;I worked with a group of five to develop the concept and create basic user flow. The team, which was comprised of one film artist, an actor, a director, a playwright, and myself, had to make a concerted effort to develop a way of working together that took aspects of both design and theatre creative process. We learned quickly that individuals had very different views on process and product and that establishing a common ground of practice was essential to moving forward. We did quick individual brainstorming sessions and shared concepts with one another, building off of each other’s ideas and focusing on common themes.&lt;/p&gt;
-&lt;p&gt;We settled on developing a piece around conversations and sounds on the subway (which are banal amidst the chaos of public transportation in NYC). As the technical and interaction expert on the team, I suggested that we draw from shared experiences and common interactions on the subway.&lt;/p&gt;
-&lt;h2 class=&quot;project-sub&quot;&gt;Performance&lt;/h2&gt;
-
-&lt;p&gt;The final piece played with the everyday actions that we use in the subway - listening in on conversations, getting lost in internal thought, and putting on headphones - to explore and subvert those actions.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;banalchaos_other2.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;The audience brought their own mobile devices and headphones into the space and were invited to use them to access a web app through which they could listen to pre-recorded conversations and internal monologues from passengers. Audience members could choose “chaos” (to listen to all the conversations simultaneously) or to listen to one conversation at a time and switch between the characters; user choice was a crucial piece of the experience. The audio experience was grounded by subway sounds (recorded by one of my teammates) that played on speakers in the shared performance space.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;banalchaos_screen2.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Meanwhile, performers pantomimed the characters who are having the conversations/internal monologues. This created a situation in which audience members had to engage in order to connect what they were seeing with what they were listening to. In this way we created a piece that examines performance as a personalized experience and as a game (with audience members trying to guess which stranger’s conversation they were listening in on).&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;banalchaos_other.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;h2 class=&quot;project-sub&quot;&gt;Technical Development&lt;/h2&gt;
-
-&lt;p&gt;With a quick turn-around time, I developed and deployed the mobile web app for the project. The app is built using HTML, CSS, javascript and contains pre-recorded audio components.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;banalchaos_screen3.JPG&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -131,34 +102,6 @@
 &lt;p&gt;&lt;img src=&quot;mayors_other2.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Based on their feedback and the existing design guidelines for the Accelerator program, I created a new iteration of visualizations that were linked to real datasets, balancing my design and interaction sense with the expressed needs of my clients. This iteration of visualizations was presented to a working group that suggested final tweaks. My final deliverables included the code and documentation about how the data visualizations were structured and rendered.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;mayors_main2.gif&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Craigslist for Brokers</title>
-      <link>http://localhost:8080/articles/06-craigslistforbrokers/</link>
-      <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/06-craigslistforbrokers/</guid>
-      <author></author>
-      <description>&lt;p&gt;&lt;i&gt;Craigslist for Brokers&lt;/i&gt; is a design concept for creating a real estate broker’s companion application for rental postings on craigslist.&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;A complete competition analysis revealed that while there are companies out there with apps intended to help real estate brokers and their teams, ultimately many of these are hard to navigate, do not integrate with craigslist, and don’t directly address the new challenges of multi-channel communication with clients that brokers face today.&lt;/p&gt;
-&lt;p&gt;In order to figure out the core activities for a young, somewhat tech-savvy real estate broker in Manhattan, where high-demand neighborhoods may produce 1,000+ responses per day, I spoke with several brokers and mapped out the entire retail process from acquiring &amp;amp; negotiating details of service and posting an ad to scheduling, final logistics, and follow-up. From these I pulled out six core activities:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;craigslist_coreactivities.jpg&quot; class=&quot;materialboxed z-depth-1&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Because some of these are needs are fulfilled already by craigslist or other competitor apps, I pulled out managing customer communications as one place with potential for more innovation in order to improve organization of clients and speed of response.&lt;/p&gt;
-&lt;p&gt;Mapping out a broker’s possible journey through an app for specific tasks associated with client management showed me places where a user might want quick access to a specific client or property.&lt;/p&gt;
-&lt;div class=&quot;carousel carousel-slider&quot; data-indicators=&quot;true&quot;&gt;
-    &lt;a class=&quot;carousel-item&quot; href=&quot;#one!&quot;&gt;&lt;img src=&quot;craigslist_userjourney1.jpg&quot;&gt;&lt;/a&gt;
-    &lt;a class=&quot;carousel-item&quot; href=&quot;#two!&quot;&gt;&lt;img src=&quot;craigslist_userjourney2.jpg&quot;&gt;&lt;/a&gt;
-    &lt;a class=&quot;carousel-item&quot; href=&quot;#three!&quot;&gt;&lt;img src=&quot;craigslist_userjourney3.jpg&quot;&gt;&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;p&gt;After observing and speaking with several brokers, I also noted that part of their challenge was the multitude of ways that a client could communicate with them - even just keeping track of emails, texts, and automated messages from real estate online posting sites was difficult. Thus, having all communications from one client aggregrated and displayed together is more helpful than having to switch between different communication channels. To deal with the volume of responses that often required automated or similar responses, I incorporated some simple AI to determine when an automated script could be selected for a response, while still giving the broker the ability to customize the message if need be. Boiled down, these needs became some of the core features for my app design.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;craigslist_corefeatures.jpg&quot; class=&quot;materialboxed z-depth-1&quot;&gt;&lt;/p&gt;
-&lt;p&gt;In order to mockup the proposed application with these core features, I first sketched out general screen flows, created some quick digital wireframes, and designed the final user interface designs.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;craigslist_sketches.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;craigslist_wires.png&quot; class=&quot;materialboxed z-depth-1&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;craigslist_UI.jpg&quot; class=&quot;materialboxed z-depth-1&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;i&gt;Craigslist for Brokers&lt;/i&gt; was created in response to a design challenge for Moment Design.&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -260,6 +203,92 @@
 &lt;/div&gt;</description>
     </item>
     <item>
+      <title>Craigslist for Brokers</title>
+      <link>http://localhost:8080/articles/06-craigslistforbrokers/</link>
+      <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/06-craigslistforbrokers/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;i&gt;Craigslist for Brokers&lt;/i&gt; is a design concept for creating a real estate broker’s companion application for rental postings on craigslist.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;A complete competition analysis revealed that while there are companies out there with apps intended to help real estate brokers and their teams, ultimately many of these are hard to navigate, do not integrate with craigslist, and don’t directly address the new challenges of multi-channel communication with clients that brokers face today.&lt;/p&gt;
+&lt;p&gt;In order to figure out the core activities for a young, somewhat tech-savvy real estate broker in Manhattan, where high-demand neighborhoods may produce 1,000+ responses per day, I spoke with several brokers and mapped out the entire retail process from acquiring &amp;amp; negotiating details of service and posting an ad to scheduling, final logistics, and follow-up. From these I pulled out six core activities:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;craigslist_coreactivities.jpg&quot; class=&quot;materialboxed z-depth-1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Because some of these are needs are fulfilled already by craigslist or other competitor apps, I pulled out managing customer communications as one place with potential for more innovation in order to improve organization of clients and speed of response.&lt;/p&gt;
+&lt;p&gt;Mapping out a broker’s possible journey through an app for specific tasks associated with client management showed me places where a user might want quick access to a specific client or property.&lt;/p&gt;
+&lt;div class=&quot;carousel carousel-slider&quot; data-indicators=&quot;true&quot;&gt;
+    &lt;a class=&quot;carousel-item&quot; href=&quot;#one!&quot;&gt;&lt;img src=&quot;craigslist_userjourney1.jpg&quot;&gt;&lt;/a&gt;
+    &lt;a class=&quot;carousel-item&quot; href=&quot;#two!&quot;&gt;&lt;img src=&quot;craigslist_userjourney2.jpg&quot;&gt;&lt;/a&gt;
+    &lt;a class=&quot;carousel-item&quot; href=&quot;#three!&quot;&gt;&lt;img src=&quot;craigslist_userjourney3.jpg&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;After observing and speaking with several brokers, I also noted that part of their challenge was the multitude of ways that a client could communicate with them - even just keeping track of emails, texts, and automated messages from real estate online posting sites was difficult. Thus, having all communications from one client aggregrated and displayed together is more helpful than having to switch between different communication channels. To deal with the volume of responses that often required automated or similar responses, I incorporated some simple AI to determine when an automated script could be selected for a response, while still giving the broker the ability to customize the message if need be. Boiled down, these needs became some of the core features for my app design.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;craigslist_corefeatures.jpg&quot; class=&quot;materialboxed z-depth-1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;In order to mockup the proposed application with these core features, I first sketched out general screen flows, created some quick digital wireframes, and designed the final user interface designs.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;craigslist_sketches.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;craigslist_wires.png&quot; class=&quot;materialboxed z-depth-1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;craigslist_UI.jpg&quot; class=&quot;materialboxed z-depth-1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Craigslist for Brokers&lt;/i&gt; was created in response to a design challenge for Moment Design.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Banal Chaos</title>
+      <link>http://localhost:8080/articles/05-banalchaos/</link>
+      <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/05-banalchaos/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;i&gt;Banal Chaos&lt;/i&gt; is an interactive performance piece in which audience members sit as if they are in an NYC subway car and don headphones in order to listen in on the conversations and inner thoughts of strangers, while performers silently act out those strangers’ daily transit routines. &lt;span class=&quot;more&quot;&gt;&lt;/span&gt;The piece explores how a performance experience can be both shared and individual and how the use of game mechanics and audience choice can create a more immersive, interactive, and connected physical-digital experience.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;banalchaos_other3.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;h2 class=&quot;project-sub&quot;&gt;Challenge&lt;/h2&gt;
+
+&lt;p&gt;The prompt/problem for &lt;i&gt;Banal Chaos&lt;/i&gt; was more about methodology, process, and implementation than product, business, or user concerns. As a performance/installation piece conceptualized and actualized within a 24-hour period of time, the team was forced to explore differences of cross-discipline creative process, unknown variables regarding presentation, and diverse expectations about the final outcome.&lt;/p&gt;
+&lt;h2 class=&quot;project-sub&quot;&gt;Goal&lt;/h2&gt;
+
+&lt;p&gt;Our team’s goal was to create a performative response to the prompt, “banal chaos,” that was flexible enough to work for a single large group performance or groups filtering in and out of the performance space. We wanted to use tech in a way that was supported and reflected the underlying themes of the piece in an essential rather than auxiliary way.&lt;/p&gt;
+&lt;h3 class=&quot;project-sub-main&quot;&gt;Design Process&lt;/h3&gt;
+
+&lt;p&gt;I worked with a group of five to develop the concept and create basic user flow. The team, which was comprised of one film artist, an actor, a director, a playwright, and myself, had to make a concerted effort to develop a way of working together that took aspects of both design and theatre creative process. We learned quickly that individuals had very different views on process and product and that establishing a common ground of practice was essential to moving forward. We did quick individual brainstorming sessions and shared concepts with one another, building off of each other’s ideas and focusing on common themes.&lt;/p&gt;
+&lt;p&gt;We settled on developing a piece around conversations and sounds on the subway (which are banal amidst the chaos of public transportation in NYC). As the technical and interaction expert on the team, I suggested that we draw from shared experiences and common interactions on the subway.&lt;/p&gt;
+&lt;h2 class=&quot;project-sub&quot;&gt;Performance&lt;/h2&gt;
+
+&lt;p&gt;The final piece played with the everyday actions that we use in the subway - listening in on conversations, getting lost in internal thought, and putting on headphones - to explore and subvert those actions.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;banalchaos_other2.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;The audience brought their own mobile devices and headphones into the space and were invited to use them to access a web app through which they could listen to pre-recorded conversations and internal monologues from passengers. Audience members could choose “chaos” (to listen to all the conversations simultaneously) or to listen to one conversation at a time and switch between the characters; user choice was a crucial piece of the experience. The audio experience was grounded by subway sounds (recorded by one of my teammates) that played on speakers in the shared performance space.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;banalchaos_screen2.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Meanwhile, performers pantomimed the characters who are having the conversations/internal monologues. This created a situation in which audience members had to engage in order to connect what they were seeing with what they were listening to. In this way we created a piece that examines performance as a personalized experience and as a game (with audience members trying to guess which stranger’s conversation they were listening in on).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;banalchaos_other.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;h2 class=&quot;project-sub&quot;&gt;Technical Development&lt;/h2&gt;
+
+&lt;p&gt;With a quick turn-around time, I developed and deployed the mobile web app for the project. The app is built using HTML, CSS, javascript and contains pre-recorded audio components.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;banalchaos_screen3.JPG&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Wag It</title>
+      <link>http://localhost:8080/articles/10-wagit/</link>
+      <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/10-wagit/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;i&gt;Wag It&lt;/i&gt; is a virtual reality game in which one plays a dog searching for love and attention by wagging her tail (i.e., shaking her butt). A player dons an Oculus Rift and uses a mobile device placed in her back pocket to measure wagging motion.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;wagit_other2.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;For inspiration, I drew from current critiques of VR, using the player’s blindness/isolation in the headset as a way to provide entertainment not only for the primary user but also those around her. A related impetus for this project was the challenge of creating a scenario in which a person would willingly act a little bit ridiculous.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;wagit_other.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Wag It&lt;/i&gt; is built in Unity 5 and the game environment is connected to a web endpoint in order to continuously pull a mobile device’s accelerometer data. The endpoint was built using JavaScript and node.js.&lt;/p&gt;
+&lt;p&gt;This game was developed as part of the 2016 Intel Kill Screen Scholars program.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>in a word</title>
+      <link>http://localhost:8080/articles/09-inaword/</link>
+      <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/09-inaword/</guid>
+      <author></author>
+      <description>&lt;p&gt;Brief opening credits for the play, &lt;i&gt;in a word&lt;/i&gt; (by Lauren Yee) directed and performed by students in The New School drama department. Animations were hand-drawn and the motion design was done in After Effects.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;inaword_other.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;inaword_other2.png&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>d.bot</title>
       <link>http://localhost:8080/articles/07-dbot/</link>
       <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
@@ -288,35 +317,6 @@
 &lt;p&gt;&lt;img src=&quot;d.bot_other2.jpg&quot; class=&quot;materialboxed z-depth-1&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Based on feedback from early users, we modified &lt;i&gt;d.bot&lt;/i&gt; to include responses to users’ actions as well as the content of their responses. For example, in the latest iteration, the bot will comment if a user takes too long to respond (e.g., “Are you ghosting me?”) and also has some special responses if a user is too curt (repeated short responses) or too verbose (words larger than eight characters).&lt;/p&gt;
 &lt;p&gt;&lt;i&gt;D.bot&lt;/i&gt; was created in collaboration with Bryan Collinsworth. I took the lead on the experience design, web development, and content curation. The bot was built using HTML/CSS, JavaScript, node.js, socket.io, and a Parse database.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Between the Beats</title>
-      <link>http://localhost:8080/articles/08-betweenthebeats/</link>
-      <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/08-betweenthebeats/</guid>
-      <author></author>
-      <description>&lt;p&gt;&lt;i&gt;Between the Beats&lt;/i&gt; is a short motion graphics piece created for a fictional music channel that delivers “music to get you in the mood.”&lt;/p&gt;
-&lt;p&gt;Starting with style frames, I established three distinct visual styles and vocabulary.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;btb_other.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;After deciding on an aesthetic direction based on user testing the readability of each of these designs, I created a storyboard to articulate and flesh out the visual style and start to encapsulate the motion and transition design as well. I drew from Blue Note records cover art as one major source of inspiration.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;btb_storyboard.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;The final motion graphics piece was done in After Effects and pushes the idea of music hidden under clothing and in the spaces in-between to highlight the unique, edgy and irreverent personality of this sexy music channel.&lt;/p&gt;
-&lt;p&gt;This piece was shown as part of a projection piece at the Parsons Fashion Gala (2016).&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Wag It</title>
-      <link>http://localhost:8080/articles/10-wagit/</link>
-      <pubDate>Mon, 01 Oct 2012 15:00:00 -0400</pubDate>
-      <guid isPermaLink="true">http://localhost:8080/articles/10-wagit/</guid>
-      <author></author>
-      <description>&lt;p&gt;&lt;i&gt;Wag It&lt;/i&gt; is a virtual reality game in which one plays a dog searching for love and attention by wagging her tail (i.e., shaking her butt). A player dons an Oculus Rift and uses a mobile device placed in her back pocket to measure wagging motion.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;wagit_other2.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;For inspiration, I drew from current critiques of VR, using the player’s blindness/isolation in the headset as a way to provide entertainment not only for the primary user but also those around her. A related impetus for this project was the challenge of creating a scenario in which a person would willingly act a little bit ridiculous.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;wagit_other.jpg&quot; class=&quot;materialboxed&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;i&gt;Wag It&lt;/i&gt; is built in Unity 5 and the game environment is connected to a web endpoint in order to continuously pull a mobile device’s accelerometer data. The endpoint was built using JavaScript and node.js.&lt;/p&gt;
-&lt;p&gt;This game was developed as part of the 2016 Intel Kill Screen Scholars program.&lt;/p&gt;
 </description>
     </item>
     <item>

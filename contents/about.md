@@ -5,7 +5,9 @@ date: 2012-10-01 15:00
 template: index.jade
 ---
 
-Currently, I work as an interaction designer and product engineer for the Verizon Open Innovation Concept Studio, creating completely new product concepts that bolster the core business. With a team of other Parsons alums, I’m also launching <a href="articles/01-postfromthepast">Post from the Past</a> - a company that delivers an immersive in-home experience uncovering the untold personal stories of historical figures.
+Currently, I work as an interaction designer for <a href="http://gallagherdesign.com/">Gallagher & Associates</a>, shaping multi-platform, physical and digital experiences and products for museum exhibitions and corporate spaces. I get excited about helping amazing, rich stories and content come to life and solving the unique challenges of designing the latest technology-enabled experiences.
+
+In previous work as an interaction designer and product engineer for Verizon's Open Innovation Concept Studio, I worked on a small, nimble R&D team to design completely new product concepts that bolstered Verizon's core business. With a team of other Parsons alums, I’m also launching <a href="articles/01-postfromthepast">Post from the Past</a> - a company that delivers an immersive in-home experience uncovering the untold personal stories of historical figures.
 
 <!-- In previous work as an interaction designer and product engineer for Verizon's Open Innovation Concept Studio, I developed the next generation of <a href="/jojo">artificial intelligence/chatbot systems</a>. -->
 

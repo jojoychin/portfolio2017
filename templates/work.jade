@@ -3,7 +3,7 @@
 		h2 Work
 		h5 projects & experiments
 .row.container.work-container
-	each article in env.helpers.getArticles(contents).sort(function(a,b){if(a.url>b.url) {return 1;}if(a.url<b.url){return -1;}return 0;})
+	each article in env.helpers.getArticles(contents).sort(function(a,b){if(a.url>b.url) {return 1;}if(a.url<b.url){return -1;}return 0;})				
 		.col.l4.m4.s6.thumbnails
 			.grid
 				figure.effect-julia.grid-item

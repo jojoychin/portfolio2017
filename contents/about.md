@@ -5,7 +5,7 @@ date: 2012-10-01 15:00
 template: index.jade
 ---
 
-Currently, I work as an interaction designer for <a href="http://gallagherdesign.com/">Gallagher & Associates</a>, shaping multi-platform, physical and digital experiences and products for museum exhibitions and corporate spaces. I get excited about helping the amazing, rich stories and content come to life and solving the unique challenges of designing for the latest technology-enabled experiences.
+Currently, I work as an interaction designer for <a href="http://gallagherdesign.com/" target="_blank">Gallagher & Associates</a>, shaping multi-platform, physical and digital experiences and products for museum exhibitions and corporate spaces. I get excited about helping the amazing, rich stories and content come to life and solving the unique challenges of designing for the latest technology-enabled experiences.
 
 With a team of other Parsons alums, I’m also (slowly) launching <a href="articles/01-postfromthepast">Post from the Past</a> - a company that delivers an immersive in-home experience uncovering the untold personal stories of historical figures.
 

@@ -1,9 +1,11 @@
 @import url(http://fonts.googleapis.com/css?family=Oswald:500,600,800,100,700,900,400,200,300);
-@import url(http://fonts.googleapis.com/css?family=Raleway:500,600,800,100,700,900,400,200,300);
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700,900');
+/*@import url(http://fonts.googleapis.com/css?family=Raleway:500,600,800,100,700,900,400,200,300);*/
 @import url(https://fonts.googleapis.com/css?family=Playfair Display:400,500,600,700,800,900italic,700,900);
 
 html {
-  font-family: 'Raleway', sans-serif;
+  /*font-family: 'Raleway', sans-serif;*/
+  font-family: 'Lato', sans-serif;
 }
 
 body {
@@ -36,7 +38,8 @@ h4 {
 }
 
 h5 {
-  font-family: 'Raleway', sans-serif;
+/*  font-family: 'Raleway', sans-serif;*/
+  font-family: 'Lato', sans-serif;
   font-size: 1.2em;
   font-weight: 100;
   line-height: 1.7em;
@@ -45,7 +48,8 @@ h5 {
 }
 
 h6 {
-  font-family: 'Raleway', sans-serif;
+/*  font-family: 'Raleway', sans-serif;*/
+  font-family: 'Lato', sans-serif;
   font-size: 0.5em;
   font-weight: 100;
   line-height: 0em;
@@ -56,7 +60,8 @@ hr {
 }
 
 p, ul, tr {
-  font-family: 'Raleway', sans-serif;
+  /*font-family: 'Raleway', sans-serif;*/
+  font-family: 'Lato', sans-serif;
   text-rendering: optimizeLegibility;
   /*letter-spacing: 0.02em;*/
   font-weight: 400;
@@ -70,7 +75,8 @@ p, ul, tr {
 .small-text {
   /*aligning with arrows*/
   margin-top: 0.3em;
-  font-family: 'Raleway', sans-serif;
+  /*font-family: 'Raleway', sans-serif;*/
+  font-family: 'Lato', sans-serif;
   font-weight: 200;
   font-size: 0.8em;
 }
@@ -375,7 +381,8 @@ nav i.material-icons {
 
 .side-nav {
   padding: 0;
-  font-family: 'Raleway';
+  /*font-family: 'Raleway';*/
+  font-family: 'Lato', sans-serif;
   font-size: 1em;
   text-transform: lowercase;
 }
@@ -656,7 +663,8 @@ nav i.material-icons {
 .grid figcaption {
   padding: 1em;
   color: #fff;
-  font-family: raleway;
+  /*font-family: raleway;*/
+  font-family: 'Lato', sans-serif;
   font-weight: 200;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;

@@ -11,7 +11,7 @@ var runSequence = require('run-sequence');
 // Running local server `gulp serve`
 //---------------------------------------------------------
 gulp.task("serve", function() {
-	var child = exec("wintersmith preview");
+	var child = exec("npm run preview");
 	child.stdout.on('data', function(data) {
 		console.log('stdout: ' + data);
 	});
@@ -28,7 +28,7 @@ gulp.task("serve", function() {
 // Build static pages `gulp build`
 //---------------------------------------------------------
 gulp.task("build", function() {
-	var child = exec("wintersmith build --clean");
+	var child = exec("npm run build");
 	child.stdout.on('data', function(data) {
 		console.log('stdout: ' + data);
 	});

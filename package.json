@@ -1,17 +1,23 @@
 {
+	"scripts": {
+		"wintersmith": "./node_modules/wintersmith/bin/wintersmith",
+		"preview": "./node_modules/wintersmith/bin/wintersmith preview",
+		"build": "./node_modules/wintersmith/bin/wintersmith build --clean"
+	},
 	"dependencies": {
 		"moment": "^2.22.2",
 		"require-dir": "^1.0.0",
 		"typogr": "0.5.x",
-		"underscore": "1.4.x"
+		"underscore": "1.4.x",
+		"wintersmith": "^2.4.1"
 	},
 	"private": "true",
 	"devDependencies": {
-		"gulp": "^4.0.0",
+		"gulp": "3.9.1",
 		"gulp-clean": "^0.3.2",
 		"gulp-exec": "^2.1.3",
 		"gulp-gh-pages": "^0.5.4",
-		"gulp-git": "^1.12.0",
+		"gulp-git": "^2.4.1",
 		"run-sequence": "^1.2.2",
 		"yargs": "^6.4.0"
 	}
